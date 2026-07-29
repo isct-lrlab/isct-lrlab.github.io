@@ -1,0 +1,8 @@
+baseURL = 'https://isct-lrlab.github.io/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+#theme = 'dot-org' # needs Sass
+theme = 'ananke' 
+
+publishDir = "docs"
+
