@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Clarity Theme - Bold Lightbulb Icon -->
+  <defs>
+    <style>
+      .main { fill: #111827; }
+      .highlight { fill: rgba(255, 255, 255, 0.7); }
+    </style>
+  </defs>
+
+  <!-- Bulb body (large circle) -->
+  <circle cx="32" cy="27" r="19" class="main"/>
+
+  <!-- Base (simplified rectangle) -->
+  <rect x="22" y="46" width="20" height="10" class="main"/>
+
+  <!-- Center highlight -->
+  <circle cx="32" cy="27" r="10" class="highlight"/>
+</svg>
