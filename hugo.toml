@@ -1,6 +1,6 @@
 #baseURL = 'https://isct-lrlab.github.io/'
-#baseURL = 'https://www.lr.first.iir.isct.ac.jp/'
-baseURL = 'https://web.lr.first.iir.isct.ac.jp/'
+#baseURL = 'https://web.lr.first.iir.isct.ac.jp/'
+baseURL = 'https://www.lr.first.iir.isct.ac.jp/'
 locale = 'en-us'
 title = 'Science Tokyo LR Lab / Okumura-Funakoshi Group'
 theme = 'clarity' 
