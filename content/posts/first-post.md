@@ -19,6 +19,6 @@ title = 'This site is under maintenance'
   * https://scholar.google.co.jp/citations?hl=ja&user=UhXijg8AAAAJ
 
 #### For prospective students:
-* Prof. Okumura will retire at March 2027 and is not able to accept new students.
+* Prof. Okumura will retire in March 2027 and is not able to accept new students.
 * Assoc. Prof. Funakoshi can accept students who enroll in [Department of Informatin and Communications Engineering (ICT), School of Engineering](https://educ.titech.ac.jp/ict/eng/).
-  * He does not accept Research Stduents (研究生) who intends to enroll in ICT Master's course.
+  * He does not accept Research Stduents (研究生) who intend to enroll in the ICT Master's course.
