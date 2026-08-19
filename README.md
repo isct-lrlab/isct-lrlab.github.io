@@ -1,10 +1,10 @@
-## How to run 
+## here
 
 $ hugo server -D
 
 http://localhost:1313/
 
-## How to build
+## to go
 
 $ hugo --cleanDestinationDir --minify
 
