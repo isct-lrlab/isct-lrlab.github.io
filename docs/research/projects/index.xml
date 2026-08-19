@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>プロジェクト on 東京科学大学 LRLab / 奥村・船越研究室</title>
+		<link>http://localhost:1313/research/projects/</link>
+		<description>Recent content in プロジェクト on 東京科学大学 LRLab / 奥村・船越研究室</description>
+		<generator>Hugo</generator>
+		<language>ja-JP</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/research/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>プロジェクト1</title>
+				<link>http://localhost:1313/research/projects/project-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/projects/project-1/</guid>
+				<description>&lt;p&gt;対話システムの評価と改善に関するプロジェクトです。研究目的、期間、メンバー、成果を記載できます。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>プロジェクト2</title>
+				<link>http://localhost:1313/research/projects/project-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/projects/project-2/</guid>
+				<description>&lt;p&gt;知識処理と自然言語処理を組み合わせた研究プロジェクトです。データ、手法、発表情報を記載できます。&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

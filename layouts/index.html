@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">LRLab</p>
+    <h1>{{ .Title }}</h1>
+    <div class="lead">{{ .Content }}</div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-header">
+    <h2>{{ i18n "recent_news" }}</h2>
+    <a href="{{ "news/" | relLangURL }}">{{ i18n "all_news" }}</a>
+  </div>
+  <div class="news-list">
+    {{ $limit := .Site.Params.recentNewsLimit | default 5 }}
+    {{ range first $limit (where .Site.RegularPages "Section" "news") }}
+      <article class="news-item">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      </article>
+    {{ else }}
+      <p>No news yet.</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="72" viewBox="0 0 208 72" role="img" aria-labelledby="title">
+  <title id="title">LRLab</title>
+  <rect width="208" height="72" rx="8" fill="#ffffff"/>
+  <path d="M14 14h42v10H26v38H14V14Zm48 0h31c13 0 22 7 22 18 0 8-5 14-13 17l17 13h-18L86 51H74v11H62V14Zm12 10v17h18c7 0 11-3 11-9s-4-8-11-8H74Zm51-10h12v38h30v10h-42V14Zm51 0h12v48h-12V14Z" fill="#005e69"/>
+  <circle cx="188" cy="18" r="6" fill="#b45f2a"/>
+</svg>

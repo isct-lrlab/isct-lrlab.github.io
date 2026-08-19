@@ -1,0 +1,36 @@
+<header class="site-header">
+  <a class="brand" href="{{ relLangURL "/" }}" aria-label="{{ .Site.Title }}">
+    <!-- img src="{{ "images/icon_lr.png" | relURL }}" alt="LRLab" width="36" height="36" -->
+    <span>{{ .Site.Title }}</span>
+  </a>
+  <nav class="main-nav" aria-label="Main navigation">
+    <ul>
+      {{ range .Site.Menus.main }}
+        {{ if not .Parent }}
+          <li class="{{ if .HasChildren }}has-children{{ end }}">
+            <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+            {{ if .HasChildren }}
+              <ul class="submenu">
+                {{ range .Children }}
+                  <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </nav>
+  <div class="language-switcher" aria-label="{{ i18n "language" }}">
+    {{ range .Translations }}
+      <a href="{{ .RelPermalink }}">{{ .Language.Label }}</a>
+    {{ end }}
+    {{ if not .Translations }}
+      {{ range .Site.Languages }}
+        {{ if ne $.Site.Language.Lang .Lang }}
+          <a href="{{ relLangURL "/" }}">{{ .Label }}</a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+</header>

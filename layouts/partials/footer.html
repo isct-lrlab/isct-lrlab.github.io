@@ -1,0 +1,6 @@
+<footer class="site-footer">
+  <p><strong>{{ i18n "address" }}:</strong>
+    {{ if eq .Site.Language.Lang "en" }}{{ .Site.Params.address_en }}{{ else }}{{ .Site.Params.address }}{{ end }}
+  </p>
+  <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+</footer>
