@@ -1,7 +1,7 @@
 ---
-title: "MIYAMOTO KAITO"
+title: "MIYAMOTO, KAITO"
 weight: 23
 member_group: "bachelor"
-description: ""
+description: "Information Retrieval"
 student_id: "23B13163"
 ---

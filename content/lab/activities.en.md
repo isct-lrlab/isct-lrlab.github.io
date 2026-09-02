@@ -7,15 +7,14 @@ weight: 1
 
 There are no core hours.
 
-Participation in seminars and paper reading sessions is required for course credit. These activities are currently held online via Zoom.
-
-All activities are held together with students in the Okumura Laboratory, without distinction. Student rooms are also shared.
+Participation in seminars and paper reading sessions is required for course credit. These activities are currently held hybrid (in-person + Zoom).
+All activities are held together without distinction of supervisors. Student rooms are also shared.
 
 Presentations and meetings in the laboratory are conducted in either Japanese or English.
 
 ## Monthly Seminar, Held Over Two Afternoons
 
-Members report on their research plans and progress in front of the joint laboratory members.
+Members report on their research plans and progress in front of the laboratory members.
 
 ## Twice-Weekly Paper Reading Sessions
 

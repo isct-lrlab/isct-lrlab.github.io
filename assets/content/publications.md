@@ -1,0 +1,290 @@
+
+[2027](research/publications/#2027) |
+[2026](research/publications/#2026) |
+[2025](research/publications/#2025) |
+[2024](research/publications/#2024) |
+[2023](research/publications/#2023) |
+[2022](research/publications/#2022) |
+[2021](research/publications/#2021) |
+[2020](research/publications/#2020)
+
+
+## 2027
+
+* Takuto Fukushima, Shoichi Hasegawa, Kotaro Funakoshi, Masato Komuro, Kan Ishikawa.
+Sequence Incongruence and Adaptive Coordination in Social VR: A Multi-Perspective Transcription Approach.
+The 2027 ACM International Conference on Supporting Group Work (GROUP 2027).
+
+-----
+
+## 2026
+
+* Sungwoo Han, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura.
+Implicit Unwatermarking in Pseudo-Reference Reranking for LLM Watermarking.
+EMNLP 2026.
+
+* Ailiang Lin, Zhuoyun Li, Yusong Wang, Keyu Mao, Kotaro Funakoshi, Manabu Okumura.
+ReverseEOL: Improving Training-free Text Embeddings via Text Reversal in Decoder-only LLMs.
+EMNLP 2026.
+
+* Michiro Asai, Ailiang Lin, Yu Kishimoto, Takao Obi, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura.
+Can LLMs Be Constrained to the Past? Improving Knowledge Cutoff through Recall-Based Prompting.
+EMNLP 2026.
+
+* Masayuki Kawarada, Tsutomu Hirao, Manabu Okumura.
+Structure-Aware Data Augmentation for Argument Mining.
+EMNLP 2026.
+
+* Soichiro Murakami, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura. 
+Who Laughs with Whom? Disentangling Influential Factors in Humor Preferences across User Clusters and LLMs.
+EMNLP 2026.
+
+* Jianzhi Shen, Keyu Mao, Minghao Shao, Chuanyang Jin, Yusong Wang, Ailiang Lin, Kotaro Funakoshi, Manabu Okumura, Muhammad Shafique.
+HyperTrace: Hypothesis-Based Preference Tracing for Online LLM Personalization.
+EMNLP 2026 Findings.
+
+* Luecheng Wang, Shintaro Ozaki, Hidetaka Kamigaito, Katsuhiko Hayashi, Jingun Kwon, Manabu Okumura, Taro Watanabe. Simile Understanding in Text-to-Image Models: An Evaluation Framework. 34th ACM International Conference on Multimedia (ACM MM 2026)
+
+* Yutong Duan, Ying Zhang, Runjia Yu, Dongyuan Li, Satoshi Kosugi, Manabu Okumura, Kotaro Funakoshi. Information extraction for materials science using large language models: A survey of recent advances and new frontiers. Materials Today Communications, 2026, 115551
+
+* Yu Nakagawa, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura. Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues. The 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026)
+
+* 川上 晴也, 呂 博軒, 船越 孝太郎, 奥村 学. 言語と行動を同時生成する2元時系列生成モデル. 人工知能学会 2025年度研究会 優秀賞
+
+* Takao Obi, Yusong Wang, Koji Inoue, Kotaro Funakoshi. Toward Signing Activity Projection in Sign Language Interaction. 2026 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+
+* Yusong Wang, Keyu Mao, Takao Obi, Minghao Shao, Kotaro Funakoshi. Emotion Recognition in Sign Language Conversation. 2026 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+
+* Yusong WANG, Keyu MAO, Minghao SHAO, Zheyuan GU, Qingsong ZHAO, Kotaro FUNAKOSHI. Unlocking High-Frequency Temporal Visual Cues for Personality Traits Recognition. IEEE Access
+
+* Sungwoo Han, Sangjun Moon, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura. Measuring Watermarking under Jailbreaking: ASR Inflation and Goal-Compliance Mismatch. Findings of The 64th Annual Meeting of the Association for Computational Linguistics
+
+* Riza Setiawan Soetedjo, Yusuke Sakai, Hidetaka Kamigaito, Jingun Kwon, Manabu Okumura, Taro Watanabe. Enhancing Factuality through Consensus and Consistency in Summarization Using Minimum Bayes Risk Decoding. Findings of The 64th Annual Meeting of the Association for Computational Linguistics
+
+* Ailiang Lin, zhuoyun li, Yusong Wang, Kotaro Funakoshi, Manabu Okumura. Causal2Vec: Improving Decoder-only LLMs as Embedding Models through a Contextual Token. The 64th Annual Meeting of the Association for Computational Linguistics
+
+* Ailiang Lin, zhuoyun li, MAO KEYU, Kotaro Funakoshi, Manabu Okumura. Embedding-based In-Context Prompt Training for Enhancing LLMs as Text Encoders. Findings of The 64th Annual Meeting of the Association for Computational Linguistics
+
+* 浅井慶朗, 岸本裕, 小尾賢生, 小杉哲, 船越孝太郎, 奥村学. 大規模言語モデルにおけるプロンプト知識カットオフ性能の検証. 情報処理学会 第267回自然言語処理研究会 優秀研究賞
+
+* 王 略丞, 尾崎 慎太郎, 上垣外 英剛, 林 克彦, Jingun Kwon, 奥村 学, 渡辺 太郎. 画像生成モデルにおける直喩喩体の生成挙動分析. 言語処理学会第32回年次大会(NLP2026) 委員特別賞
+
+* 村上 聡一朗, 上垣外 英剛, 高村 大也, 奥村 学. 個別選好の異質性を考慮した大喜利ユーモア選好要因の分析. 言語処理学会第32回年次大会(NLP2026) 委員特別賞
+
+* HYEYEON KIM, Sungwoo Han, Jingun Kwon, Hidetaka Kamigaito and Manabu Okumura. MMCIG: Multimodal Cover Image Generation for Text-only Documents and Its Dataset Construction via Pseudo-labeling. 2026 International Conference on Language Resources and Evaluation (LREC2026)
+
+* Yicheng Xu, Yue Wu, Jiashuo Yu, Ziang Yan, Tianxiang Jiang, Yinan He, Qingsong Zhao, Kai Chen, Yu Qiao, Limin Wang, Manabu Okumura, Yi Wang. ExpVid: A Benchmark for Experiment Video Understanding & Reasoning. The Fourteenth International Conference on Learning Representations (ICLR 2026)
+
+* Ye Xiong, Hidetaka Kamigaito, Soichiro Murakami, Peinan Zhang, Hiroya Takamura, Manabu Okumura. Progressive Visual Refinement for Multi-modal Summarization. 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)
+
+* Juseon Do, Sungwoo Han, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura. ConRAS: Contrastive In-context Learning Framework for Retrieval-Augmented Summarization. Findings of 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)
+
+* LI XIAO, Kotaro Funakoshi, Manabu Okumura. Emotion Recognition in Multi-Speaker Conversations through Speaker Identification, Knowledge Distillation, and Hierarchical Fusion. Findings of 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)
+
+-----
+
+## 2025
+
+* Dongyuan Li, Shiyin Tan, Ying Zhang, Ming Jin, Shirui Pan, Manabu Okumura, Renhe Jiang. DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs. The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+
+* Sangjun Moon, Dasom choi, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura. Length Representations in Large Language Models. Findings of The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)
+
+* Shiyin Tan, Dongyuan Li, Renhe Jiang, Zhen Wang, Xingtong Yu, Manabu Okumura. Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity. 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025) BEST Student Paper Award
+
+* Takao Obi, Kotaro Funakoshi. Breathe and Speak Attentively: Implementing Respiratory Awareness into Conversational Robots. IEEE Robotics and Automation Letters (RA-L)
+
+* Takahashi et al. Analyzing Dialogue System Behavior in a Specific Situation Requiring Interpersonal Consideration. The 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2025)
+
+* Sato et al. Key Challenges in Multimodal Task-Oriented Dialogue Systems: Insights from a Large Competition-Based Dataset. The 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2025)
+
+* Yuichiro Mori, Chikara Tanaka, Aru Maekawa, Satoshi Kosugi, Tatsuya Ishigaki, Kotaro Funakoshi, Hiroya Takamura, Manabu Okumura. Live Football Commentary System Providing Background Information. ACL 2025 System Demonstration Track
+
+* Boxuan Lyu, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura. Unveiling the Power of Source: Source-based Minimum Bayes Risk Decoding for Neural Machine Translation. The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+
+* Soichiro Murakami, Peinan Zhang, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura. AdParaphrase v2.0: Generating Attractive Ad Texts Using a Preference-Annotated Paraphrase Dataset. Findings of The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+
+* Shiyin Tan, Jaeeon Park, Dongyuan Li, Renhe Jiang and Manabu Okumura. A Unified Retrieval Framework with Document Ranking and EDU Filtering for Multi-document Summarization. 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)
+
+* Yiqian Huang, Ying Zhang, Kotaro Funakoshi, Manabu Okumura, Yang Cao. S2N: A Synthetic Data-Driven Approach for Speaker-to-Dialogue Attribution in Novels. International Joint Conference on Neural Networks (IJCNN2025)
+
+* 佐々木裕多, 小尾賢生, 船越孝太郎 (チーム TabiToc). 第7回対話システムライブコンペティション シチュエーショントラック，タスクトラック. 最優秀賞
+
+* 中根 稜介, 前川 在, 上垣外 英剛, 平尾 努, 奥村 学. 大規模言語モデルを用いたシフト還元型句構造解析. 言語処理学会第31回年次大会(NLP2025) 若手奨励賞
+
+* Juseon-Do, Jaesung Hwang, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura. Considering Length Diversity in Retrieval-Augmented Summarization. Findings of The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL 2025)
+
+* Soichiro Murakami, Peinan Zhang, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura. AdParaphrase: Paraphrase Dataset for Analyzing Linguistic Features toward Generating Attractive Ad Texts. Findings of The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL 2025)
+
+* Jian Wu, Linyi Yang, Zhen Wang, Manabu Okumura, Yue Zhang. CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark. The Thirteenth International Conference on Learning Representations (ICLR 2025)
+
+* Jian Wu, Linyi Yang, Dongyuan Li, Yuliang Ji, Manabu Okumura, Yue Zhang. MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions. The Thirteenth International Conference on Learning Representations (ICLR 2025)
+
+* Dongyuan Li, Satoshi Kosugi, Ying Zhang, Manabu Okumura, Feng Xia, Renhe Jiang. Revisiting Dynamic Graph Clustering via Matrix Factorization. The Web Conference 2025
+
+-----
+
+## 2024
+
+* Yuanyuan Cai, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura. Enhancing Image Clustering with Captions. 38th Pacific Asia Conference on Language, Information and Computation (PACLIC 2024)
+
+* Chun-Fang Chuang, Dongyuan Li, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura. LPLS: A Selection Strategy Based on Pseudo-Labeling Status for Semi-Supervised Active Learning in Text Classification. 38th Pacific Asia Conference on Language, Information and Computation (PACLIC 2024)
+
+* Yicheng Xu, Yuxin Chen, Jiahao Nie, Yusong Wang, Huiping Zhuang, Manabu Okumura. Advancing Cross-domain Discriminability in Continual Learning of Vision-Language Models. The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+
+* Yusong Wang, Dongyuan Li, Jialun Shen, Yicheng Xu, Mingkun Xu, Kotaro Funakoshi, Manabu Okumura. LAMBDA: Large Language Model-Based Data Augmentation for Multi-Modal Machine Translation. Findings of The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+
+* Tsutomu Hirao, Naoki Kobayashi, Hidetaka Kamigaito, Manabu Okumura, Akisato Kimura. Video Discourse Parsing and Its Application to Multimodal Summarization: A Dataset and Baseline Approaches. Findings of The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+
+* Dongyuan Li, Ying Zhang, Zhen Wang, Shiyin Tan, Satoshi Kosugi, Manabu Okumura. Active Learning for Abstractive Text Summarization via LLM-Determined Curriculum and Certainty Gain Maximization. Findings of The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+
+* Yusong Wang, Ying Zhang, Dongyuan Li, Jialun Shen, Yicheng Xu, Mingkun Xu, Kotaro Funakoshi, Manabu Okumura. FINE-LMT: Fine-grained Feature Learning for Multi-Modal Machine Translation. PRICAI 2024
+
+* Congda MA, Tianyu Zhao, Manabu Okumura. Debiasing Large Language Models with Structured Knowledge. Findings of The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
+
+* Juseon-Do, Hidetaka Kamigaito, Manabu Okumura, Jingun Kwon. InstructCMP: Length Control in Sentence Compression through Instruction-based Large Language Models. Findings of The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
+
+* Shiyin Tan, Dongyuan Li, Renhe Jiang, Ying Zhang, Manabu Okumura. Community-Invariant Graph Contrastive Learning. Forty-first International Conference on Machine Learning (ICML 2024)
+
+* Ye Xiong, Hidetaka Kamigaito, Soichiro Murakami, Peinan Zhang, Hiroya Takamura and Manabu Okumura. Grasping Both Query Relevance and Essential Content or Query-focused Summarization. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)
+
+* Toshiki Kawamoto, Masaki Tashiro, Takamichi Nakamoto, Manabu Okumura. Creating Linguistic Embedding Space for Odors. The 2024 IEEE International Symposium on Olfaction and Electronic Nose (ISOEN)
+
+* Aru Maekawa, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura. DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation. Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)
+
+* Aru Maekawa, Tsutomu Hirao, Hidetaka Kamigaito, Manabu Okumura. Can we obtain significant success in RST discourse parsing by using Large Language Models? The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)
+
+* Boonnithi Jiaramaneepinit, Thodsaporn Chay-intr, Kotaro Funakoshi, Manabu Okumura. Extreme Fine-tuning: A Novel and Fast Fine-tuning Approach. The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)
+
+* Zhen Wang, Dongyuan Li, Manabu Okumura. MULTIMODAL GRAPH-BASED AUDIO-VISUAL EVENT LOCALIZATION. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)
+
+* Fuyang Yu, Zhen Wang, Dongyuan Li, Peide Zhu, Xiaochuan Wang, Xiaohui Liang, Manabu Okumura. Towards Cross-modal Point Cloud Retrieval for Indoor Scenes. 30th International Conference on Multi Media Modeling (MMM 2024)
+
+* Peide Zhu, Zhen Wang, Manabu Okumura, Jie Yang. MRHF: Multi-stage Retrieval and Hierarchical Fusion for Textbook Question Answering. 30th International Conference on Multi Media Modeling (MMM 2024)
+
+* Zhen Wang, Peide Zhu, Fuyang Yu, Manabu Okumura. A New Benchmark and OCR-free Method for Document Image Topic Classification. 30th International Conference on Multi Media Modeling (MMM 2024)
+
+-----
+
+## 2023
+
+* Dongyuan Li, Yusong Wang, Kotaro Funakoshi, Manabu Okumura. Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition. The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
+
+* Wuttinan Longjaroen, Thodsaporn Chay-Intr, Kotaro Funakoshi, Ananlada Chotimongkol, Sasiporn Usanavasin. Simple2In1: A Simple Method for Fusing Two Sequences from Different Captioning Systems into One Sequence for a Small-scale Thai Dataset. The 18th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP 2023)
+
+* Dongyuan Li, Yusong Wang, Kotaro Funakoshi, Manabu Okumura. Active Learning Based Fine-Tuning Framework for Speech Emotion Recognition. IEEE Workshop on Automatic Speech Recognition and Understanding 2023 (ASRU 2023)
+
+* Toshiki Kawamoto, Yuki Okano, Takato Yamazaki, Toshinori Sato, Kotaro Funakoshi, Manabu Okumura. A Follow-up Study on Evaluation Metrics Using Follow-up Utterances. Pacific Asia Conference on Language, Information and Computation (PACLIC 2023)
+
+* Dongyuan Li, Shiyin Tan, Yusong Wang, Kotaro Funakoshi, Manabu Okumura. Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction. ACM International Conference on Information and Knowledge Management (CIKM 2023)
+
+* Takao Obi, Kotaro Funakoshi. Video-based Respiratory Waveform Estimation in Dialogue: A Novel Task and Dataset for Human-Machine Interaction. International Conference on Multimodal Interaction (ICMI 2023)
+
+* Congda Ma, Kotaro Funakoshi, Kiyoaki Shirai, Manabu Okumura. Coherent Story Generation with Structured Knowledge. Recent Advances in Natural Language Processing (RANLP 2023)
+
+* Yuki Okano, Kotaro Funakoshi, Ryo Nagata, Manabu Okumura. Generating Dialog Responses with Specified Grammatical Items for Second Language Learning. BEA 2023
+
+* Congda Ma, Tianyu Zhao, Makoto Shing, Kei Sawada, Manabu Okumura. Focused Prefix Tuning for Controllable Text Generation. The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
+
+* Aru Maekawa, Naoki Kobayashi, Kotaro Funakoshi, Manabu Okumura. Distilled Few-shots with Attention Labels for Fine-tuning BERT. The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
+
+* Jian Wu, Yicheng Xu, Yan Gao, Jian-Guang Lou, Borje F. Karlsson, Manabu Okumura. TACR: A Table Alignment-based Cell Selection Method for HybridQA. Findings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
+
+* Ying Zhang, Hidetaka Kamigaito, Manabu Okumura. Bidirectional Transformer Reranker for Grammatical Error Correction. Findings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
+
+* Yusong Wang, Dongyuan Li, Kotaro Funakoshi, Manabu Okumura. EMP: Emotion-guided Multi-modal Fusion and Contrastive Learning for Personality Traits Recognition. International Conference on Multimedia Retrieval (ICMR 2023)
+
+* Aru Maekawa, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura. Generative Replay with Hippocampal Memory Indexing for Continual Language Learning. The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)
+
+* Jingun Kwon, Hidetaka Kamigaito, Young-In Song, Manabu Okumura. Hierarchical Label Generation for Text Classification. Findings of The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)
+
+* Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura. Abstractive Document Summarization with Summary-length Prediction. Findings of The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)
+
+-----
+
+## 2022
+
+* Naoki Kobayashi, Tsutomu Hirao, Hidetaka Kamigaito, Manabu Okumura and Masaaki Nagata. A Simple and Strong Baseline for End-to-End Neural RST-style Discourse Parsing. Findings of EMNLP 2022
+
+* Yukun Feng, Amir Fayazi, Abhinav Rastogi and Manabu Okumura. Efficient Entity Embedding Construction from Type Knowledge for BERT. Findings of AACL-IJCNLP 2022
+
+* 船越 孝太郎. 非公理的項論理：認知的記号推論の計算理論. 人工知能学会論文誌
+
+* Jingyi You, Dongyuan Li, Manabu Okumura and Kenji Suzuki. JPG - Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation. COLING 2022
+
+* Dongyuan Li, Jingyi You, Kotaro Funakoshi and Manabu Okumura. A-TIP: Attribute-aware Text Infilling via Pre-trained Language Model. COLING 2022
+
+* Yidong Wang, Hao Wu, Ao Liu, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki, Manabu Okumura and Yue Zhang. Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction. COLING 2022
+
+* Soichiro Murakami, Peinan Zhang, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura. Aspect-based Analysis of Advertising Appeals for Search Engine Advertising. NAACL HLT 2022 Industry Track
+
+* Jingyi You, Dongyuan Li, Hidetaka Kamigaito, Kotaro Funakoshi and Manabu Okumura. Joint Learning-based Heterogeneous Graph Attention Network for Timeline Summarization. NAACL 2022
+
+* Toshiki Kawamoto, Hidetaka Kamigaito, Kotaro Funakoshi and Manabu Okumura. Generating Repetitions with Appropriate Repeated Words. NAACL 2022
+
+* Lya Hulliyyatus Suadaa, Hidetaka Kamigaito, Manabu Okumura and Hiroya Takamura. Metric-Type Identification for Multilevel Header Numerical Tables in Scientific Papers. 自然言語処理
+
+* Chenlong Hu, Yukun Feng, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura. One-class Text Classification with Multi-modal Deep Support Vector Data Description. 自然言語処理
+
+* Abdurrisyad Fikri, Hiroya Takamura and Manabu Okumura. Stylistically User-specific Response Generation. 自然言語処理
+
+* 村上 聡一朗, 田中 天, 萩行 正嗣, 上垣外 英剛, 船越 孝太郎, 高村 大也 and 奥村 学. 数値気象予報からの天気予報コメントの自動生成. 自然言語処理
+
+-----
+
+## 2021
+
+* Jingun Kwon, Naoki Kobayashi, Hidetaka Kamigaito and Manabu Okumura. Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer. EMNLP 2021
+
+* Ying Zhang, Hidetaka Kamigaito and Manabu Okumura. A Language Model-based Generative Classifier for Sentence-level Discourse Parsing. EMNLP 2021
+
+* Jingyi You, Chenlong Hu, Hidetaka Kamigaito, Kotaro Funakoshi and Manabu Okumura. Robust Dynamic Clustering for Temporal Networks. CIKM 2021
+
+* Jingun Kwon, Naoki Kobayashi, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura. Making Your Tweets More Fancy: Emoji Insertion to Texts. RANLP 2021
+
+* Yukun Feng, Chenlong Hu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura. Improving Character-Aware Neural Language Model by Warming Up Character Encoder under Skip-gram Architecture. RANLP 2021
+
+* Thodsaporn Chay-intr, Hidetaka Kamigaito and Manabu Okumura. Character-based Thai Word Segmentation with Multiple Attentions. RANLP 2021
+
+* Ying Zhang, Hidetaka Kamigaito, Tatsuya Aoki, Hiroya Takamura and Manabu Okumura. Generic Mechanism for Reducing Repetitions in Encoder-Decoder Models. RANLP 2021
+
+* Jingyi You, Chenlong Hu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura. Abstractive Document Summarization with Word Embedding Reconstruction. RANLP 2021
+
+* Yijin Xiong, Yukun Feng, Hao Wu, Hidetaka Kamigaito and Manabu Okumura. Fusing Label Embedding into BERT: An Efficient Improvement for Text Classification. Findings of ACL 2021
+
+* Lya Hulliyyatus Suadaa, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura and Hiroya Takamura. Towards Table-to-Text Generation with Numerical Reasoning. ACL 2021
+
+* Hidetaka Kamigaito and Katsuhiko Hayashi. Unified Interpretation of Softmax Cross-Entropy and Negative Sampling for Knowledge Graph Embedding. ACL 2021
+
+* Hidetaka Kamigaito, Peinan Zhang, Hiroya Takamura and Manabu Okumura. An Empirical Study of Generating Texts for Search Engine Advertising. NAACL 2021 Industry Track
+
+* Naoki Kobayashi, Tsutomu Hirao, Hidetaka Kamigaito, Manabu Okumura and Masaaki Nagata. Improving Neural RST Parsing Model with Silver Agreement Subtrees. NAACL-HLT 2021
+
+* Hidetaka Kamigaito, Jingun Kwon, Young-In Song and Manabu Okumura. A New Surprise Measure for Extracting Interesting Relationships between Persons. EACL 2021 System Demonstration
+
+* Soichiro Murakami, Sora Tanaka, Masatsugu Hangyo, Hidetaka Kamigaito, Kotaro Funakoshi, Hiroya Takamura and Manabu Okumura. Generating Weather Comments from Meteorological Simulations. EACL 2021
+
+* Lya Hulliyyatus Suadaa, Hiroya Takamura, Hidetaka Kamigaito and Manabu Okumura. Metric-Type Identification for Multi-Level Header Numerical Tables in Scientific Papers. EACL 2021
+
+* Chenlong Hu, Yukun Feng, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura. One-class Text Classification with Multi-Modal Deep Support Vector Data Description. EACL 2021
+
+-----
+
+## 2020
+
+* Jingun Kwon, Hidetaka Kamigaito, Young-In Song and Manabu Okumura. Hierarchical Trivia Fact Extraction from Wikipedia Articles. COLING 2020
+
+* Shogo Fujita, Tomohide Shibata and Manabu Okumura. Diverse and Non-redundant Answer Set Extraction on Community QA based on DPPs. COLING 2020
+
+* Shogo Fujita, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura. Pointing to Subwords for Generating Function Names in Source Code. COLING 2020
+
+* Riku Kawamura, Tatsuya Aoki, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura. Neural text normalization leveraging similarities of strings and sounds. COLING 2020
+
+* Yukun Feng, Chenlong Hu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura. A Simple and Effective Usage of Word Clusters for CBOW Model. AACL-IJCNLP 2020
+
+* 石垣 達也, 町田 和哉, 小林 隼人, 高村 大也 and 奥村 学. 質問―回答ペアを活用する半教師あり抽出型質問要約モデルとその学習法. 自然言語処理
+
+* Soichiro Fujita, Tsutomu Hirao, Hidetaka Kamigaito, Manabu Okumura and Masaaki Nagata. SODA: Story Oriented Dense Video Captioning Evaluation Framework. ECCV 2020
+
+* 村上 聡一朗, 渡邉 亮彦, 宮澤 彬, 五島 圭一, 柳瀬 利彦, 高村 大也 and 宮尾 祐介. 時系列株価データからの市況コメントの自動生成. 自然言語処理
+
+* 石川 開, 高村 大也 and 奥村 学. 多様なイベント表現を対象とした知識抽出における異なるエンコーディングモデル群の動的アンサンブル. 自然言語処理

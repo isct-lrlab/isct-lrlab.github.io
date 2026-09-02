@@ -1,7 +1,7 @@
 ---
-title: "XIONG YE"
+title: "XIONG,YE"
 weight: 22
 member_group: "doctoral"
-description: ""
+description: "Multimodal summarization"
 student_id: "22D18406"
 ---

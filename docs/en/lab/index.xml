@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Lab on Science Tokyo LRLab / Okumura-Funakoshi Group</title>
-		<link>http://localhost:1313/en/lab/</link>
+		<link>http://192.168.0.206:1313/en/lab/</link>
 		<description>Recent content in Lab on Science Tokyo LRLab / Okumura-Funakoshi Group</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -10,26 +10,26 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/en/lab/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://192.168.0.206:1313/en/lab/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Laboratory Activities</title>
-				<link>http://localhost:1313/en/lab/activities/</link>
+				<link>http://192.168.0.206:1313/en/lab/activities/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/lab/activities/</guid>
-				<description>&lt;p&gt;There are no core hours.&lt;/p&gt;&#xA;&lt;p&gt;Participation in seminars and paper reading sessions is required for course credit. These activities are currently held online via Zoom.&lt;/p&gt;&#xA;&lt;p&gt;All activities are held together with students in the Okumura Laboratory, without distinction. Student rooms are also shared.&lt;/p&gt;&#xA;&lt;p&gt;Presentations and meetings in the laboratory are conducted in either Japanese or English.&lt;/p&gt;&#xA;&lt;h2 id=&#34;monthly-seminar-held-over-two-afternoons&#34;&gt;Monthly Seminar, Held Over Two Afternoons&lt;/h2&gt;&#xA;&lt;p&gt;Members report on their research plans and progress in front of the joint laboratory members.&lt;/p&gt;&#xA;&lt;h2 id=&#34;twice-weekly-paper-reading-sessions&#34;&gt;Twice-Weekly Paper Reading Sessions&lt;/h2&gt;&#xA;&lt;p&gt;Each presenter chooses one paper from several papers they have read and introduces it to the joint laboratory members in about 20 to 30 minutes. Presentation turns are assigned twice a year, but students choose the papers themselves based on their own research topics and interests. Undergraduate students attend as listeners only.&lt;/p&gt;</description>
+				<guid>http://192.168.0.206:1313/en/lab/activities/</guid>
+				<description>&lt;p&gt;There are no core hours.&lt;/p&gt;&#xA;&lt;p&gt;Participation in seminars and paper reading sessions is required for course credit. These activities are currently held hybrid (in-person + Zoom).&#xA;All activities are held together without distinction of supervisors. Student rooms are also shared.&lt;/p&gt;&#xA;&lt;p&gt;Presentations and meetings in the laboratory are conducted in either Japanese or English.&lt;/p&gt;&#xA;&lt;h2 id=&#34;monthly-seminar-held-over-two-afternoons&#34;&gt;Monthly Seminar, Held Over Two Afternoons&lt;/h2&gt;&#xA;&lt;p&gt;Members report on their research plans and progress in front of the laboratory members.&lt;/p&gt;&#xA;&lt;h2 id=&#34;twice-weekly-paper-reading-sessions&#34;&gt;Twice-Weekly Paper Reading Sessions&lt;/h2&gt;&#xA;&lt;p&gt;Each presenter chooses one paper from several papers they have read and introduces it to the joint laboratory members in about 20 to 30 minutes. Presentation turns are assigned twice a year, but students choose the papers themselves based on their own research topics and interests. Undergraduate students attend as listeners only.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Joining the Laboratory</title>
-				<link>http://localhost:1313/en/lab/join/</link>
+				<link>http://192.168.0.206:1313/en/lab/join/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/lab/join/</guid>
+				<guid>http://192.168.0.206:1313/en/lab/join/</guid>
 				<description>&lt;p&gt;Students in the Department of Information and Communications Engineering and its graduate program can join the laboratory.&lt;/p&gt;&#xA;&lt;h2 id=&#34;joining-as-a-masters-student&#34;&gt;Joining as a Master&amp;rsquo;s Student&lt;/h2&gt;&#xA;&lt;p&gt;Please refer to the &lt;a href=&#34;https://www.titech.ac.jp/prospective-students&#34;&gt;university website&lt;/a&gt; for details.&lt;/p&gt;&#xA;&lt;h3 id=&#34;internal-students-and-students-from-other-universities-in-japan&#34;&gt;Internal Students and Students from Other Universities in Japan&lt;/h3&gt;&#xA;&lt;p&gt;Please take the graduate school entrance examination held in August. Anyone who satisfies the eligibility requirements set by the university may apply.&lt;/p&gt;&#xA;&lt;h3 id=&#34;international-students&#34;&gt;International Students&lt;/h3&gt;&#xA;&lt;p&gt;Applications through IGP(C) are accepted twice a year. Applicants must satisfy the screening criteria of the department. IGP(A) is offered once a year. For IGP(A), applicants are expected to continue on to the doctoral program.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Choosing a Research Theme</title>
-				<link>http://localhost:1313/en/lab/themes/</link>
+				<link>http://192.168.0.206:1313/en/lab/themes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/lab/themes/</guid>
+				<guid>http://192.168.0.206:1313/en/lab/themes/</guid>
 				<description>&lt;h2 id=&#34;basic-policy&#34;&gt;Basic Policy&lt;/h2&gt;&#xA;&lt;p&gt;Each student is expected to make an effort to find a research topic based on their own interests.&lt;/p&gt;&#xA;&lt;p&gt;We may suggest topics, but we do not require students to work on topics prepared by the faculty. Students decide on their research topics by presenting topic proposals in seminars, receiving feedback, and consulting individually with faculty members.&lt;/p&gt;&#xA;&lt;h2 id=&#34;possible-research-topics&#34;&gt;Possible Research Topics&lt;/h2&gt;&#xA;&lt;p&gt;We can supervise research related to natural language processing, dialogue systems, and human-machine interaction, where &amp;ldquo;machine&amp;rdquo; includes computers, agents, and robots.&lt;/p&gt;&#xA;&lt;p&gt;Students can also work on topics related to nonverbal information processing, such as deciding when a dialogue robot should speak or estimating a user&amp;rsquo;s internal state, including emotion and motivation, from speech and images.&lt;/p&gt;</description>
 			</item>
 	</channel>

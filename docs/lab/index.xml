@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>研究室 on 東京科学大学 LRLab / 奥村・船越研究室</title>
-		<link>http://localhost:1313/lab/</link>
+		<link>http://192.168.0.206:1313/lab/</link>
 		<description>Recent content in 研究室 on 東京科学大学 LRLab / 奥村・船越研究室</description>
 		<generator>Hugo</generator>
 		<language>ja-JP</language>
@@ -10,26 +10,26 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/lab/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://192.168.0.206:1313/lab/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>研究室での活動</title>
-				<link>http://localhost:1313/lab/activities/</link>
+				<link>http://192.168.0.206:1313/lab/activities/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/lab/activities/</guid>
-				<description>&lt;p&gt;&#xA;&lt;p&gt;コアタイムはありません．&lt;/p&gt;&#xA;&lt;p&gt;ゼミ・輪講への参加は，単位認定のため必須です（現在はオンライン(Zoom)で行っています）&lt;/p&gt;&#xA;&lt;p&gt;全て奥村研所属の学生と区別なく一緒に行います．学生の居室も混合です．&lt;/p&gt;&#xA;&lt;p&gt;研究室内の発表・ミーティングは，日本語また英語で行っています．&lt;/p&gt;</description>
+				<guid>http://192.168.0.206:1313/lab/activities/</guid>
+				<description>&lt;p&gt;コアタイムはありません．&lt;/p&gt;&#xA;&lt;p&gt;ゼミ・輪講への参加は，単位認定のため必須です（現在はハイブリッド(対面＋Zoom)で行っています）．&#xA;指導教員の区別なく一緒に行います．学生の居室も混合です．&lt;/p&gt;&#xA;&lt;p&gt;研究室内の発表・ミーティングは，日本語また英語で行っています．&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>研究室への配属</title>
-				<link>http://localhost:1313/lab/join/</link>
+				<link>http://192.168.0.206:1313/lab/join/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/lab/join/</guid>
+				<guid>http://192.168.0.206:1313/lab/join/</guid>
 				<description>&lt;p&gt;&#xA;&lt;p&gt;工学院情報通信系・コースの学生が所属可能です．&lt;/p&gt;&#xA;&lt;h2 id=&#34;大学院修士課程での所属&#34;&gt;大学院修士課程での所属&lt;/h2&gt;&#xA;&lt;p&gt;詳細は&lt;a href=&#34;https://www.titech.ac.jp/prospective-students&#34;&gt;大学のwebサイト&lt;/a&gt; を参照してください．&lt;/p&gt;&#xA;&lt;h3 id=&#34;東工大内部進学生国内他大学の学生&#34;&gt;東工大内部進学生・国内他大学の学生&lt;/h3&gt;&#xA;&lt;p&gt;8月の大学院入試を受験してください．大学が定める資格を満たせばどなたでも受験できます．&lt;/p&gt;&#xA;&lt;h3 id=&#34;国外の学生&#34;&gt;国外の学生&lt;/h3&gt;&#xA;&lt;p&gt;年に2回IGP(C)での受験が可能です．応募するには系の選考基準を満たす必要があります．&#xA;IGP(A)は1回です．IGP(A)の場合は，博士進学が受験の前提となります．&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>研究テーマの選び方</title>
-				<link>http://localhost:1313/lab/themes/</link>
+				<link>http://192.168.0.206:1313/lab/themes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/lab/themes/</guid>
+				<guid>http://192.168.0.206:1313/lab/themes/</guid>
 				<description>&lt;p&gt;&#xA;&lt;h2 id=&#34;基本方針&#34;&gt;基本方針&lt;/h2&gt;&#xA;&lt;p&gt;各人の興味に基づいて，自分でテーマを探す努力をしてもらいます．&lt;/p&gt;&#xA;&lt;p&gt;テーマの提案はしますが，こちらが用意したテーマを強制することはありません．&#xA;ゼミで研究テーマ案について発表してフィードバックをもらったり，教員と個別に相談をしながら，テーマを決定していきます．&lt;/p&gt;</description>
 			</item>
 	</channel>

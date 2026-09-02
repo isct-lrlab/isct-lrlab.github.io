@@ -1,0 +1,5 @@
+{{ with resources.Get (.Get 0) }}
+  {{ .Content | markdownify }}
+{{ else }}
+  {{ errorf "Markdown include file not found: %s" (.Get 0) }}
+{{ end }}

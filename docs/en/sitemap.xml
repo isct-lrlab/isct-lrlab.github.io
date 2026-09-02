@@ -2,927 +2,917 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/lab/activities/</loc>
+    <loc>http://192.168.0.206:1313/en/lab/activities/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/lab/activities/"
+                href="http://192.168.0.206:1313/lab/activities/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/lab/activities/"
+                href="http://192.168.0.206:1313/en/lab/activities/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/okumuramanabu/</loc>
+    <loc>http://192.168.0.206:1313/en/members/okumuramanabu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/okumuramanabu/"
+                href="http://192.168.0.206:1313/members/okumuramanabu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/okumuramanabu/"
+                href="http://192.168.0.206:1313/en/members/okumuramanabu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/research/projects/project-1/</loc>
+    <loc>http://192.168.0.206:1313/en/research/projects/project-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/research/projects/project-1/"
+                href="http://192.168.0.206:1313/research/projects/project-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/research/projects/project-1/"
+                href="http://192.168.0.206:1313/en/research/projects/project-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/lab/join/</loc>
+    <loc>http://192.168.0.206:1313/en/lab/join/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/lab/join/"
+                href="http://192.168.0.206:1313/lab/join/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/lab/join/"
+                href="http://192.168.0.206:1313/en/lab/join/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/funakoshikotaro/</loc>
+    <loc>http://192.168.0.206:1313/en/members/funakoshikotaro/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/funakoshikotaro/"
+                href="http://192.168.0.206:1313/members/funakoshikotaro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/funakoshikotaro/"
+                href="http://192.168.0.206:1313/en/members/funakoshikotaro/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/research/projects/project-2/</loc>
+    <loc>http://192.168.0.206:1313/en/research/projects/project-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/research/projects/project-2/"
+                href="http://192.168.0.206:1313/research/projects/project-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/research/projects/project-2/"
+                href="http://192.168.0.206:1313/en/research/projects/project-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/lab/themes/</loc>
+    <loc>http://192.168.0.206:1313/en/lab/themes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/lab/themes/"
+                href="http://192.168.0.206:1313/lab/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/lab/themes/"
+                href="http://192.168.0.206:1313/en/lab/themes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/kosugisatoshi/</loc>
+    <loc>http://192.168.0.206:1313/en/members/kosugisatoshi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/kosugisatoshi/"
+                href="http://192.168.0.206:1313/members/kosugisatoshi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/kosugisatoshi/"
+                href="http://192.168.0.206:1313/en/members/kosugisatoshi/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/secretary/</loc>
+    <loc>http://192.168.0.206:1313/en/members/secretary/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/secretary/"
+                href="http://192.168.0.206:1313/members/secretary/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/secretary/"
+                href="http://192.168.0.206:1313/en/members/secretary/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/lidongyuan/</loc>
+    <loc>http://192.168.0.206:1313/en/members/lidongyuan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/lidongyuan/"
+                href="http://192.168.0.206:1313/members/lidongyuan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/lidongyuan/"
+                href="http://192.168.0.206:1313/en/members/lidongyuan/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/</loc>
+    <loc>http://192.168.0.206:1313/en/members/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/"
+                href="http://192.168.0.206:1313/members/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/"
+                href="http://192.168.0.206:1313/en/members/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/caiyuanyuan/</loc>
+    <loc>http://192.168.0.206:1313/en/members/caiyuanyuan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/caiyuanyuan/"
+                href="http://192.168.0.206:1313/members/caiyuanyuan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/caiyuanyuan/"
+                href="http://192.168.0.206:1313/en/members/caiyuanyuan/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/jiaramaneepinitboonnithi/</loc>
+    <loc>http://192.168.0.206:1313/en/members/jiaramaneepinitboonnithi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/jiaramaneepinitboonnithi/"
+                href="http://192.168.0.206:1313/members/jiaramaneepinitboonnithi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/jiaramaneepinitboonnithi/"
+                href="http://192.168.0.206:1313/en/members/jiaramaneepinitboonnithi/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/parkjaeeon/</loc>
+    <loc>http://192.168.0.206:1313/en/members/parkjaeeon/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/parkjaeeon/"
+                href="http://192.168.0.206:1313/members/parkjaeeon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/parkjaeeon/"
+                href="http://192.168.0.206:1313/en/members/parkjaeeon/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/xixiangwen/</loc>
+    <loc>http://192.168.0.206:1313/en/members/xixiangwen/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/xixiangwen/"
+                href="http://192.168.0.206:1313/members/xixiangwen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/xixiangwen/"
+                href="http://192.168.0.206:1313/en/members/xixiangwen/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/xiongye/</loc>
+    <loc>http://192.168.0.206:1313/en/members/xiongye/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/xiongye/"
+                href="http://192.168.0.206:1313/members/xiongye/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/xiongye/"
+                href="http://192.168.0.206:1313/en/members/xiongye/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/zhutianjiao/</loc>
+    <loc>http://192.168.0.206:1313/en/members/zhutianjiao/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/zhutianjiao/"
+                href="http://192.168.0.206:1313/members/zhutianjiao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/zhutianjiao/"
+                href="http://192.168.0.206:1313/en/members/zhutianjiao/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/miyamotokaito/</loc>
+    <loc>http://192.168.0.206:1313/en/members/miyamotokaito/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/miyamotokaito/"
+                href="http://192.168.0.206:1313/members/miyamotokaito/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/miyamotokaito/"
+                href="http://192.168.0.206:1313/en/members/miyamotokaito/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/renkexin/</loc>
+    <loc>http://192.168.0.206:1313/en/members/renkexin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/renkexin/"
+                href="http://192.168.0.206:1313/members/renkexin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/renkexin/"
+                href="http://192.168.0.206:1313/en/members/renkexin/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/sasakiyuta/</loc>
+    <loc>http://192.168.0.206:1313/en/members/sasakiyuta/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/sasakiyuta/"
+                href="http://192.168.0.206:1313/members/sasakiyuta/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/sasakiyuta/"
+                href="http://192.168.0.206:1313/en/members/sasakiyuta/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/shenjialun/</loc>
+    <loc>http://192.168.0.206:1313/en/members/shenjialun/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/shenjialun/"
+                href="http://192.168.0.206:1313/members/shenjialun/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/shenjialun/"
+                href="http://192.168.0.206:1313/en/members/shenjialun/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/tanshiyin/</loc>
+    <loc>http://192.168.0.206:1313/en/members/tanshiyin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/tanshiyin/"
+                href="http://192.168.0.206:1313/members/tanshiyin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/tanshiyin/"
+                href="http://192.168.0.206:1313/en/members/tanshiyin/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/thirafifaza/</loc>
+    <loc>http://192.168.0.206:1313/en/members/thirafifaza/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/thirafifaza/"
+                href="http://192.168.0.206:1313/members/thirafifaza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/thirafifaza/"
+                href="http://192.168.0.206:1313/en/members/thirafifaza/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/torigoesoichiro/</loc>
+    <loc>http://192.168.0.206:1313/en/members/torigoesoichiro/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/torigoesoichiro/"
+                href="http://192.168.0.206:1313/members/torigoesoichiro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/torigoesoichiro/"
+                href="http://192.168.0.206:1313/en/members/torigoesoichiro/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/wangyusong/</loc>
+    <loc>http://192.168.0.206:1313/en/members/wangyusong/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/wangyusong/"
+                href="http://192.168.0.206:1313/members/wangyusong/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/wangyusong/"
+                href="http://192.168.0.206:1313/en/members/wangyusong/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/xuyicheng/</loc>
+    <loc>http://192.168.0.206:1313/en/members/xuyicheng/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/xuyicheng/"
+                href="http://192.168.0.206:1313/members/xuyicheng/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/xuyicheng/"
+                href="http://192.168.0.206:1313/en/members/xuyicheng/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/zhuyanjun/</loc>
+    <loc>http://192.168.0.206:1313/en/members/zhuyanjun/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/zhuyanjun/"
+                href="http://192.168.0.206:1313/members/zhuyanjun/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/zhuyanjun/"
+                href="http://192.168.0.206:1313/en/members/zhuyanjun/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/linailiang/</loc>
+    <loc>http://192.168.0.206:1313/en/members/linailiang/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/linailiang/"
+                href="http://192.168.0.206:1313/members/linailiang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/linailiang/"
+                href="http://192.168.0.206:1313/en/members/linailiang/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/maedashinji/</loc>
+    <loc>http://192.168.0.206:1313/en/members/maedashinji/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/maedashinji/"
+                href="http://192.168.0.206:1313/members/maedashinji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/maedashinji/"
+                href="http://192.168.0.206:1313/en/members/maedashinji/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/maekawaaru/</loc>
+    <loc>http://192.168.0.206:1313/en/members/maekawaaru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/maekawaaru/"
+                href="http://192.168.0.206:1313/members/maekawaaru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/maekawaaru/"
+                href="http://192.168.0.206:1313/en/members/maekawaaru/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/maokeyu/</loc>
+    <loc>http://192.168.0.206:1313/en/members/maokeyu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/maokeyu/"
+                href="http://192.168.0.206:1313/members/maokeyu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/maokeyu/"
+                href="http://192.168.0.206:1313/en/members/maokeyu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/myaeisan/</loc>
+    <loc>http://192.168.0.206:1313/en/members/myaeisan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/myaeisan/"
+                href="http://192.168.0.206:1313/members/myaeisan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/myaeisan/"
+                href="http://192.168.0.206:1313/en/members/myaeisan/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/obitakao/</loc>
+    <loc>http://192.168.0.206:1313/en/members/obitakao/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/obitakao/"
+                href="http://192.168.0.206:1313/members/obitakao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/obitakao/"
+                href="http://192.168.0.206:1313/en/members/obitakao/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/satotoshinori/</loc>
+    <loc>http://192.168.0.206:1313/en/members/satotoshinori/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/satotoshinori/"
+                href="http://192.168.0.206:1313/members/satotoshinori/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/satotoshinori/"
+                href="http://192.168.0.206:1313/en/members/satotoshinori/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/dacunhatheodorematthewpatawari/</loc>
+    <loc>http://192.168.0.206:1313/en/members/dacunhatheodorematthewpatawari/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/dacunhatheodorematthewpatawari/"
+                href="http://192.168.0.206:1313/members/dacunhatheodorematthewpatawari/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/dacunhatheodorematthewpatawari/"
+                href="http://192.168.0.206:1313/en/members/dacunhatheodorematthewpatawari/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/duanyutong/</loc>
+    <loc>http://192.168.0.206:1313/en/members/duanyutong/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/duanyutong/"
+                href="http://192.168.0.206:1313/members/duanyutong/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/duanyutong/"
+                href="http://192.168.0.206:1313/en/members/duanyutong/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/hezimeng/</loc>
+    <loc>http://192.168.0.206:1313/en/members/hezimeng/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/hezimeng/"
+                href="http://192.168.0.206:1313/members/hezimeng/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/hezimeng/"
+                href="http://192.168.0.206:1313/en/members/hezimeng/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/huangyiqian/</loc>
+    <loc>http://192.168.0.206:1313/en/members/huangyiqian/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/huangyiqian/"
+                href="http://192.168.0.206:1313/members/huangyiqian/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/huangyiqian/"
+                href="http://192.168.0.206:1313/en/members/huangyiqian/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/ishiwatataichi/</loc>
+    <loc>http://192.168.0.206:1313/en/members/ishiwatataichi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/ishiwatataichi/"
+                href="http://192.168.0.206:1313/members/ishiwatataichi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/ishiwatataichi/"
+                href="http://192.168.0.206:1313/en/members/ishiwatataichi/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/kawaradamasayuki/</loc>
+    <loc>http://192.168.0.206:1313/en/members/kawaradamasayuki/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/kawaradamasayuki/"
+                href="http://192.168.0.206:1313/members/kawaradamasayuki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/kawaradamasayuki/"
+                href="http://192.168.0.206:1313/en/members/kawaradamasayuki/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/lyuboxuan/</loc>
+    <loc>http://192.168.0.206:1313/en/members/lyuboxuan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/lyuboxuan/"
+                href="http://192.168.0.206:1313/members/lyuboxuan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/lyuboxuan/"
+                href="http://192.168.0.206:1313/en/members/lyuboxuan/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/nakaneryosuke/</loc>
+    <loc>http://192.168.0.206:1313/en/members/nakaneryosuke/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/nakaneryosuke/"
+                href="http://192.168.0.206:1313/members/nakaneryosuke/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/nakaneryosuke/"
+                href="http://192.168.0.206:1313/en/members/nakaneryosuke/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/sengokuyusei/</loc>
+    <loc>http://192.168.0.206:1313/en/members/sengokuyusei/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/sengokuyusei/"
+                href="http://192.168.0.206:1313/members/sengokuyusei/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/sengokuyusei/"
+                href="http://192.168.0.206:1313/en/members/sengokuyusei/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/shinagawakentaro/</loc>
+    <loc>http://192.168.0.206:1313/en/members/shinagawakentaro/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/shinagawakentaro/"
+                href="http://192.168.0.206:1313/members/shinagawakentaro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/shinagawakentaro/"
+                href="http://192.168.0.206:1313/en/members/shinagawakentaro/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/sugiharakosuke/</loc>
+    <loc>http://192.168.0.206:1313/en/members/sugiharakosuke/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/sugiharakosuke/"
+                href="http://192.168.0.206:1313/members/sugiharakosuke/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/sugiharakosuke/"
+                href="http://192.168.0.206:1313/en/members/sugiharakosuke/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/tomizawaakinojo/</loc>
+    <loc>http://192.168.0.206:1313/en/members/tomizawaakinojo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/tomizawaakinojo/"
+                href="http://192.168.0.206:1313/members/tomizawaakinojo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/tomizawaakinojo/"
+                href="http://192.168.0.206:1313/en/members/tomizawaakinojo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/yamauchiisato/</loc>
+    <loc>http://192.168.0.206:1313/en/members/yamauchiisato/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/yamauchiisato/"
+                href="http://192.168.0.206:1313/members/yamauchiisato/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/yamauchiisato/"
+                href="http://192.168.0.206:1313/en/members/yamauchiisato/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/yurunjia/</loc>
+    <loc>http://192.168.0.206:1313/en/members/yurunjia/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/yurunjia/"
+                href="http://192.168.0.206:1313/members/yurunjia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/yurunjia/"
+                href="http://192.168.0.206:1313/en/members/yurunjia/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/zhuxingyu/</loc>
+    <loc>http://192.168.0.206:1313/en/members/zhuxingyu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/zhuxingyu/"
+                href="http://192.168.0.206:1313/members/zhuxingyu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/zhuxingyu/"
+                href="http://192.168.0.206:1313/en/members/zhuxingyu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/chenguangyu/</loc>
+    <loc>http://192.168.0.206:1313/en/members/chenguangyu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/chenguangyu/"
+                href="http://192.168.0.206:1313/members/chenguangyu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/chenguangyu/"
+                href="http://192.168.0.206:1313/en/members/chenguangyu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/kawakamiharuya/</loc>
+    <loc>http://192.168.0.206:1313/en/members/kawakamiharuya/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/kawakamiharuya/"
+                href="http://192.168.0.206:1313/members/kawakamiharuya/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/kawakamiharuya/"
+                href="http://192.168.0.206:1313/en/members/kawakamiharuya/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/leejeongahn/</loc>
+    <loc>http://192.168.0.206:1313/en/members/leejeongahn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/leejeongahn/"
+                href="http://192.168.0.206:1313/members/leejeongahn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/leejeongahn/"
+                href="http://192.168.0.206:1313/en/members/leejeongahn/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/nakagawayu/</loc>
+    <loc>http://192.168.0.206:1313/en/members/nakagawayu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/nakagawayu/"
+                href="http://192.168.0.206:1313/members/nakagawayu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/nakagawayu/"
+                href="http://192.168.0.206:1313/en/members/nakagawayu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/wutong/</loc>
+    <loc>http://192.168.0.206:1313/en/members/wutong/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/wutong/"
+                href="http://192.168.0.206:1313/members/wutong/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/wutong/"
+                href="http://192.168.0.206:1313/en/members/wutong/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/yanyihan/</loc>
+    <loc>http://192.168.0.206:1313/en/members/yanyihan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/yanyihan/"
+                href="http://192.168.0.206:1313/members/yanyihan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/yanyihan/"
+                href="http://192.168.0.206:1313/en/members/yanyihan/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/yangyuhsiang/</loc>
+    <loc>http://192.168.0.206:1313/en/members/yangyuhsiang/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/yangyuhsiang/"
+                href="http://192.168.0.206:1313/members/yangyuhsiang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/yangyuhsiang/"
+                href="http://192.168.0.206:1313/en/members/yangyuhsiang/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/research/</loc>
+    <loc>http://192.168.0.206:1313/en/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/research/"
+                href="http://192.168.0.206:1313/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/research/"
+                href="http://192.168.0.206:1313/en/research/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/research/publications/</loc>
+    <loc>http://192.168.0.206:1313/en/research/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/research/publications/"
+                href="http://192.168.0.206:1313/research/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/research/publications/"
+                href="http://192.168.0.206:1313/en/research/publications/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/research/projects/</loc>
+    <loc>http://192.168.0.206:1313/en/lab/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/research/projects/"
+                href="http://192.168.0.206:1313/lab/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/research/projects/"
+                href="http://192.168.0.206:1313/en/lab/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/lab/</loc>
+    <loc>http://192.168.0.206:1313/en/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/lab/"
+                href="http://192.168.0.206:1313/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/lab/"
+                href="http://192.168.0.206:1313/en/links/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/links/</loc>
+    <loc>http://192.168.0.206:1313/en/news/2026-09-01-renewal/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/links/"
+                href="http://192.168.0.206:1313/news/2026-09-01-renewal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/links/"
+                href="http://192.168.0.206:1313/en/news/2026-09-01-renewal/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/members/visting-student-1/</loc>
+    <loc>http://192.168.0.206:1313/en/news/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/members/visting-student-1/"
+                href="http://192.168.0.206:1313/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/members/visting-student-1/"
+                href="http://192.168.0.206:1313/en/news/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/2026-08-01-renewal/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+    <loc>http://192.168.0.206:1313/en/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/2026-08-01-renewal/"
+                href="http://192.168.0.206:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/2026-08-01-renewal/"
+                href="http://192.168.0.206:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+    <loc>http://192.168.0.206:1313/en/news/2026-08-26-group/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/"
+                href="http://192.168.0.206:1313/news/2026-08-26-group/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/"
+                href="http://192.168.0.206:1313/en/news/2026-08-26-group/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+    <loc>http://192.168.0.206:1313/en/news/2026-08-21-emnlp/</loc>
+    <lastmod>2026-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/"
+                href="http://192.168.0.206:1313/news/2026-08-21-emnlp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="http://192.168.0.206:1313/en/news/2026-08-21-emnlp/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/2026-07-10-acmmm/</loc>
+    <loc>http://192.168.0.206:1313/en/news/2026-07-10-acmmm/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/2026-07-10-acmmm/"
+                href="http://192.168.0.206:1313/news/2026-07-10-acmmm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/2026-07-10-acmmm/"
+                href="http://192.168.0.206:1313/en/news/2026-07-10-acmmm/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/2026-06-23-spread/</loc>
+    <loc>http://192.168.0.206:1313/en/news/2026-06-23-spread/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/2026-06-23-spread/"
+                href="http://192.168.0.206:1313/news/2026-06-23-spread/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/2026-06-23-spread/"
+                href="http://192.168.0.206:1313/en/news/2026-06-23-spread/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/2026-06-18-materialstoday/</loc>
+    <loc>http://192.168.0.206:1313/en/news/2026-06-18-materialstoday/</loc>
     <lastmod>2026-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/2026-06-18-materialstoday/"
+                href="http://192.168.0.206:1313/news/2026-06-18-materialstoday/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/2026-06-18-materialstoday/"
+                href="http://192.168.0.206:1313/en/news/2026-06-18-materialstoday/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/2026-06-02-sigdial/</loc>
+    <loc>http://192.168.0.206:1313/en/news/2026-06-02-sigdial/</loc>
     <lastmod>2026-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/2026-06-02-sigdial/"
+                href="http://192.168.0.206:1313/news/2026-06-02-sigdial/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/2026-06-02-sigdial/"
+                href="http://192.168.0.206:1313/en/news/2026-06-02-sigdial/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/2026-06-02-jsai-award/</loc>
+    <loc>http://192.168.0.206:1313/en/news/2026-06-02-jsai-award/</loc>
     <lastmod>2026-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/2026-06-02-jsai-award/"
+                href="http://192.168.0.206:1313/news/2026-06-02-jsai-award/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/2026-06-02-jsai-award/"
+                href="http://192.168.0.206:1313/en/news/2026-06-02-jsai-award/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/2026-05-30-ro-man/</loc>
+    <loc>http://192.168.0.206:1313/en/news/2026-05-30-ro-man/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/2026-05-30-ro-man/"
+                href="http://192.168.0.206:1313/news/2026-05-30-ro-man/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/2026-05-30-ro-man/"
+                href="http://192.168.0.206:1313/en/news/2026-05-30-ro-man/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/2026-05-26-ieeeaccess/</loc>
+    <loc>http://192.168.0.206:1313/en/news/2026-05-26-ieeeaccess/</loc>
     <lastmod>2026-05-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/2026-05-26-ieeeaccess/"
+                href="http://192.168.0.206:1313/news/2026-05-26-ieeeaccess/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/2026-05-26-ieeeaccess/"
+                href="http://192.168.0.206:1313/en/news/2026-05-26-ieeeaccess/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/2026-04-06-acl/</loc>
+    <loc>http://192.168.0.206:1313/en/news/2026-04-06-acl/</loc>
     <lastmod>2026-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/2026-04-06-acl/"
+                href="http://192.168.0.206:1313/news/2026-04-06-acl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/2026-04-06-acl/"
+                href="http://192.168.0.206:1313/en/news/2026-04-06-acl/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/news/template/</loc>
+    <loc>http://192.168.0.206:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/news/template/"
+                href="http://192.168.0.206:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/news/template/"
+                href="http://192.168.0.206:1313/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>http://192.168.0.206:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="http://localhost:1313/categories/"
+                href="http://192.168.0.206:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="http://192.168.0.206:1313/en/tags/"
                 />
   </url>
 </urlset>

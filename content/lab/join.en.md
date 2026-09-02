@@ -19,7 +19,7 @@ Please take the graduate school entrance examination held in August. Anyone who 
 
 Applications through IGP(C) are accepted twice a year. Applicants must satisfy the screening criteria of the department. IGP(A) is offered once a year. For IGP(A), applicants are expected to continue on to the doctoral program.
 
-## Joining as a Doctoral Student
+## Joining as a Doctoral Student or a Visiting Student
 
 Please contact us individually.
 

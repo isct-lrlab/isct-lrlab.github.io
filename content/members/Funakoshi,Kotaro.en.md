@@ -5,6 +5,8 @@ member_group: "staff"
 description: "Associate Professor. Natural language processing, multimodal dialogue systems, human-machine interaction"
 ---
 
+test 7
+
 ## Associate Professor, Intelligent Information Processing Research Core, Laboratory for Future Interdisciplinary Research of Science and Technology [(Intelligent Information Processing Research Core page)](https://www.first.iir.isct.ac.jp/en/member/core1/#funakoshi)
 
 ### Primary Teaching Department: [Department of Information and Communications Engineering, School of Engineering](https://educ.titech.ac.jp/ict/faculty/)

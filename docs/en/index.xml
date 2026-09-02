@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Science Tokyo LRLab / Okumura-Funakoshi Group</title>
-		<link>http://localhost:1313/en/</link>
+		<link>http://192.168.0.206:1313/en/</link>
 		<description>Recent content on Science Tokyo LRLab / Okumura-Funakoshi Group</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -10,470 +10,463 @@
 		
 		
 		
-			<lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://192.168.0.206:1313/en/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Laboratory Activities</title>
-				<link>http://localhost:1313/en/lab/activities/</link>
+				<link>http://192.168.0.206:1313/en/lab/activities/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/lab/activities/</guid>
-				<description>&lt;p&gt;There are no core hours.&lt;/p&gt;&#xA;&lt;p&gt;Participation in seminars and paper reading sessions is required for course credit. These activities are currently held online via Zoom.&lt;/p&gt;&#xA;&lt;p&gt;All activities are held together with students in the Okumura Laboratory, without distinction. Student rooms are also shared.&lt;/p&gt;&#xA;&lt;p&gt;Presentations and meetings in the laboratory are conducted in either Japanese or English.&lt;/p&gt;&#xA;&lt;h2 id=&#34;monthly-seminar-held-over-two-afternoons&#34;&gt;Monthly Seminar, Held Over Two Afternoons&lt;/h2&gt;&#xA;&lt;p&gt;Members report on their research plans and progress in front of the joint laboratory members.&lt;/p&gt;&#xA;&lt;h2 id=&#34;twice-weekly-paper-reading-sessions&#34;&gt;Twice-Weekly Paper Reading Sessions&lt;/h2&gt;&#xA;&lt;p&gt;Each presenter chooses one paper from several papers they have read and introduces it to the joint laboratory members in about 20 to 30 minutes. Presentation turns are assigned twice a year, but students choose the papers themselves based on their own research topics and interests. Undergraduate students attend as listeners only.&lt;/p&gt;</description>
+				<guid>http://192.168.0.206:1313/en/lab/activities/</guid>
+				<description>&lt;p&gt;There are no core hours.&lt;/p&gt;&#xA;&lt;p&gt;Participation in seminars and paper reading sessions is required for course credit. These activities are currently held hybrid (in-person + Zoom).&#xA;All activities are held together without distinction of supervisors. Student rooms are also shared.&lt;/p&gt;&#xA;&lt;p&gt;Presentations and meetings in the laboratory are conducted in either Japanese or English.&lt;/p&gt;&#xA;&lt;h2 id=&#34;monthly-seminar-held-over-two-afternoons&#34;&gt;Monthly Seminar, Held Over Two Afternoons&lt;/h2&gt;&#xA;&lt;p&gt;Members report on their research plans and progress in front of the laboratory members.&lt;/p&gt;&#xA;&lt;h2 id=&#34;twice-weekly-paper-reading-sessions&#34;&gt;Twice-Weekly Paper Reading Sessions&lt;/h2&gt;&#xA;&lt;p&gt;Each presenter chooses one paper from several papers they have read and introduces it to the joint laboratory members in about 20 to 30 minutes. Presentation turns are assigned twice a year, but students choose the papers themselves based on their own research topics and interests. Undergraduate students attend as listeners only.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Manabu OKUMURA</title>
-				<link>http://localhost:1313/en/members/okumuramanabu/</link>
+				<link>http://192.168.0.206:1313/en/members/okumuramanabu/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/okumuramanabu/</guid>
+				<guid>http://192.168.0.206:1313/en/members/okumuramanabu/</guid>
 				<description>&lt;h2 id=&#34;professor-intelligent-information-processing-research-core-laboratory-for-future-interdisciplinary-research-of-science-and-technology-intelligent-information-processing-research-core-page&#34;&gt;Professor, Intelligent Information Processing Research Core, Laboratory for Future Interdisciplinary Research of Science and Technology &lt;a href=&#34;https://www.first.iir.isct.ac.jp/en/member/core1/#okumura&#34;&gt;(Intelligent Information Processing Research Core page)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;primary-teaching-department-department-of-information-and-communications-engineering-school-of-engineering&#34;&gt;Primary Teaching Department: &lt;a href=&#34;https://educ.titech.ac.jp/ict/faculty/&#34;&gt;Department of Information and Communications Engineering, School of Engineering&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;biography-publications-and-related-information&#34;&gt;Biography, Publications, and Related Information&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://strdb.s.isct.ac.jp/html/100002058_en.html&#34;&gt;Science Tokyo Researcher Database&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/read0069366?lang=en&#34;&gt;ResearchMap&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://aclanthology.org/people/manabu-okumura/&#34;&gt;ACL Anthology&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>Project 1</title>
-				<link>http://localhost:1313/en/research/projects/project-1/</link>
+				<link>http://192.168.0.206:1313/en/research/projects/project-1/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/research/projects/project-1/</guid>
+				<guid>http://192.168.0.206:1313/en/research/projects/project-1/</guid>
 				<description>&lt;p&gt;A project on evaluation and improvement of dialogue systems. Add goals, duration, members, and outcomes here.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Joining the Laboratory</title>
-				<link>http://localhost:1313/en/lab/join/</link>
+				<link>http://192.168.0.206:1313/en/lab/join/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/lab/join/</guid>
+				<guid>http://192.168.0.206:1313/en/lab/join/</guid>
 				<description>&lt;p&gt;Students in the Department of Information and Communications Engineering and its graduate program can join the laboratory.&lt;/p&gt;&#xA;&lt;h2 id=&#34;joining-as-a-masters-student&#34;&gt;Joining as a Master&amp;rsquo;s Student&lt;/h2&gt;&#xA;&lt;p&gt;Please refer to the &lt;a href=&#34;https://www.titech.ac.jp/prospective-students&#34;&gt;university website&lt;/a&gt; for details.&lt;/p&gt;&#xA;&lt;h3 id=&#34;internal-students-and-students-from-other-universities-in-japan&#34;&gt;Internal Students and Students from Other Universities in Japan&lt;/h3&gt;&#xA;&lt;p&gt;Please take the graduate school entrance examination held in August. Anyone who satisfies the eligibility requirements set by the university may apply.&lt;/p&gt;&#xA;&lt;h3 id=&#34;international-students&#34;&gt;International Students&lt;/h3&gt;&#xA;&lt;p&gt;Applications through IGP(C) are accepted twice a year. Applicants must satisfy the screening criteria of the department. IGP(A) is offered once a year. For IGP(A), applicants are expected to continue on to the doctoral program.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Kotaro FUNAKOSHI</title>
-				<link>http://localhost:1313/en/members/funakoshikotaro/</link>
+				<link>http://192.168.0.206:1313/en/members/funakoshikotaro/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/funakoshikotaro/</guid>
-				<description>&lt;h2 id=&#34;associate-professor-intelligent-information-processing-research-core-laboratory-for-future-interdisciplinary-research-of-science-and-technology-intelligent-information-processing-research-core-page&#34;&gt;Associate Professor, Intelligent Information Processing Research Core, Laboratory for Future Interdisciplinary Research of Science and Technology &lt;a href=&#34;https://www.first.iir.isct.ac.jp/en/member/core1/#funakoshi&#34;&gt;(Intelligent Information Processing Research Core page)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;primary-teaching-department-department-of-information-and-communications-engineering-school-of-engineering&#34;&gt;Primary Teaching Department: &lt;a href=&#34;https://educ.titech.ac.jp/ict/faculty/&#34;&gt;Department of Information and Communications Engineering, School of Engineering&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;contact-his-surname-at-first-dot-iir-dot-isct-dot-ac-dot-jp&#34;&gt;Contact: [His surname] at FIRST dot IIR dot ISCT dot AC dot JP&lt;/h3&gt;&#xA;&lt;h2 id=&#34;biography-publications-and-related-information&#34;&gt;Biography, Publications, and Related Information&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://strdb.s.isct.ac.jp/html/100002652_en.html&#34;&gt;Science Tokyo Researcher Database&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/funakoshi.k?lang=en&#34;&gt;ResearchMap&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?hl=en&amp;amp;user=UhXijg8AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<guid>http://192.168.0.206:1313/en/members/funakoshikotaro/</guid>
+				<description>&lt;p&gt;test 7&lt;/p&gt;&#xA;&lt;h2 id=&#34;associate-professor-intelligent-information-processing-research-core-laboratory-for-future-interdisciplinary-research-of-science-and-technology-intelligent-information-processing-research-core-page&#34;&gt;Associate Professor, Intelligent Information Processing Research Core, Laboratory for Future Interdisciplinary Research of Science and Technology &lt;a href=&#34;https://www.first.iir.isct.ac.jp/en/member/core1/#funakoshi&#34;&gt;(Intelligent Information Processing Research Core page)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;primary-teaching-department-department-of-information-and-communications-engineering-school-of-engineering&#34;&gt;Primary Teaching Department: &lt;a href=&#34;https://educ.titech.ac.jp/ict/faculty/&#34;&gt;Department of Information and Communications Engineering, School of Engineering&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;contact-his-surname-at-first-dot-iir-dot-isct-dot-ac-dot-jp&#34;&gt;Contact: [His surname] at FIRST dot IIR dot ISCT dot AC dot JP&lt;/h3&gt;&#xA;&lt;h2 id=&#34;biography-publications-and-related-information&#34;&gt;Biography, Publications, and Related Information&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://strdb.s.isct.ac.jp/html/100002652_en.html&#34;&gt;Science Tokyo Researcher Database&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/funakoshi.k?lang=en&#34;&gt;ResearchMap&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?hl=en&amp;amp;user=UhXijg8AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>Project 2</title>
-				<link>http://localhost:1313/en/research/projects/project-2/</link>
+				<link>http://192.168.0.206:1313/en/research/projects/project-2/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/research/projects/project-2/</guid>
+				<guid>http://192.168.0.206:1313/en/research/projects/project-2/</guid>
 				<description>&lt;p&gt;A research project combining knowledge processing and natural language processing. Add datasets, methods, and publications here.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Choosing a Research Theme</title>
-				<link>http://localhost:1313/en/lab/themes/</link>
+				<link>http://192.168.0.206:1313/en/lab/themes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/lab/themes/</guid>
+				<guid>http://192.168.0.206:1313/en/lab/themes/</guid>
 				<description>&lt;h2 id=&#34;basic-policy&#34;&gt;Basic Policy&lt;/h2&gt;&#xA;&lt;p&gt;Each student is expected to make an effort to find a research topic based on their own interests.&lt;/p&gt;&#xA;&lt;p&gt;We may suggest topics, but we do not require students to work on topics prepared by the faculty. Students decide on their research topics by presenting topic proposals in seminars, receiving feedback, and consulting individually with faculty members.&lt;/p&gt;&#xA;&lt;h2 id=&#34;possible-research-topics&#34;&gt;Possible Research Topics&lt;/h2&gt;&#xA;&lt;p&gt;We can supervise research related to natural language processing, dialogue systems, and human-machine interaction, where &amp;ldquo;machine&amp;rdquo; includes computers, agents, and robots.&lt;/p&gt;&#xA;&lt;p&gt;Students can also work on topics related to nonverbal information processing, such as deciding when a dialogue robot should speak or estimating a user&amp;rsquo;s internal state, including emotion and motivation, from speech and images.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Satoshi KOSUGI</title>
-				<link>http://localhost:1313/en/members/kosugisatoshi/</link>
+				<link>http://192.168.0.206:1313/en/members/kosugisatoshi/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/kosugisatoshi/</guid>
+				<guid>http://192.168.0.206:1313/en/members/kosugisatoshi/</guid>
 				<description>&lt;h2 id=&#34;assistant-professor-intelligent-information-processing-research-core-laboratory-for-future-interdisciplinary-research-of-science-and-technology-intelligent-information-processing-research-core-page&#34;&gt;Assistant Professor, Intelligent Information Processing Research Core, Laboratory for Future Interdisciplinary Research of Science and Technology &lt;a href=&#34;https://www.first.iir.isct.ac.jp/en/member/core1/#kosugi&#34;&gt;(Intelligent Information Processing Research Core page)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;primary-teaching-department-department-of-information-and-communications-engineering-school-of-engineering&#34;&gt;Primary Teaching Department: &lt;a href=&#34;https://educ.titech.ac.jp/ict/faculty/&#34;&gt;Department of Information and Communications Engineering, School of Engineering&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;biography-publications-and-related-information&#34;&gt;Biography, Publications, and Related Information&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://strdb.s.isct.ac.jp/html/100003342_en.html&#34;&gt;Science Tokyo Researcher Database&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://satoshi-kosugi.github.io/index.html&#34;&gt;Personal Website (github.io)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>Nobuko IIYAMA</title>
-				<link>http://localhost:1313/en/members/secretary/</link>
+				<link>http://192.168.0.206:1313/en/members/secretary/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/secretary/</guid>
+				<guid>http://192.168.0.206:1313/en/members/secretary/</guid>
 				<description>&lt;p&gt;R2棟 728号室，電話/FAX: 045-924-5295&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Dongyuan Li</title>
-				<link>http://localhost:1313/en/members/lidongyuan/</link>
+				<link>http://192.168.0.206:1313/en/members/lidongyuan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/lidongyuan/</guid>
+				<guid>http://192.168.0.206:1313/en/members/lidongyuan/</guid>
 				<description>&lt;p&gt;Administrative support, office communication, and visitor coordination.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>CAI YUANYUAN</title>
-				<link>http://localhost:1313/en/members/caiyuanyuan/</link>
+				<link>http://192.168.0.206:1313/en/members/caiyuanyuan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/caiyuanyuan/</guid>
+				<guid>http://192.168.0.206:1313/en/members/caiyuanyuan/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>JIARAMANEEPINIT BOONNITHI</title>
-				<link>http://localhost:1313/en/members/jiaramaneepinitboonnithi/</link>
+				<link>http://192.168.0.206:1313/en/members/jiaramaneepinitboonnithi/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/jiaramaneepinitboonnithi/</guid>
+				<guid>http://192.168.0.206:1313/en/members/jiaramaneepinitboonnithi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>PARK JAEEON</title>
-				<link>http://localhost:1313/en/members/parkjaeeon/</link>
+				<link>http://192.168.0.206:1313/en/members/parkjaeeon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/parkjaeeon/</guid>
+				<guid>http://192.168.0.206:1313/en/members/parkjaeeon/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>XI XIANGWEN</title>
-				<link>http://localhost:1313/en/members/xixiangwen/</link>
+				<link>http://192.168.0.206:1313/en/members/xixiangwen/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/xixiangwen/</guid>
+				<guid>http://192.168.0.206:1313/en/members/xixiangwen/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>XIONG YE</title>
-				<link>http://localhost:1313/en/members/xiongye/</link>
+				<title>XIONG,YE</title>
+				<link>http://192.168.0.206:1313/en/members/xiongye/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/xiongye/</guid>
+				<guid>http://192.168.0.206:1313/en/members/xiongye/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ZHU TIANJIAO</title>
-				<link>http://localhost:1313/en/members/zhutianjiao/</link>
+				<link>http://192.168.0.206:1313/en/members/zhutianjiao/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/zhutianjiao/</guid>
+				<guid>http://192.168.0.206:1313/en/members/zhutianjiao/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>MIYAMOTO KAITO</title>
-				<link>http://localhost:1313/en/members/miyamotokaito/</link>
+				<title>MIYAMOTO, KAITO</title>
+				<link>http://192.168.0.206:1313/en/members/miyamotokaito/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/miyamotokaito/</guid>
+				<guid>http://192.168.0.206:1313/en/members/miyamotokaito/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>REN KEXIN</title>
-				<link>http://localhost:1313/en/members/renkexin/</link>
+				<link>http://192.168.0.206:1313/en/members/renkexin/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/renkexin/</guid>
+				<guid>http://192.168.0.206:1313/en/members/renkexin/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SASAKI YUTA</title>
-				<link>http://localhost:1313/en/members/sasakiyuta/</link>
+				<link>http://192.168.0.206:1313/en/members/sasakiyuta/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/sasakiyuta/</guid>
+				<guid>http://192.168.0.206:1313/en/members/sasakiyuta/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>SHEN JIALUN</title>
-				<link>http://localhost:1313/en/members/shenjialun/</link>
+				<title>SHEN, JIALUN</title>
+				<link>http://192.168.0.206:1313/en/members/shenjialun/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/shenjialun/</guid>
-				<description></description>
+				<guid>http://192.168.0.206:1313/en/members/shenjialun/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://sgallon-rin.github.io/&#34;&gt;Homepage&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>TAN SHIYIN</title>
-				<link>http://localhost:1313/en/members/tanshiyin/</link>
+				<link>http://192.168.0.206:1313/en/members/tanshiyin/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/tanshiyin/</guid>
+				<guid>http://192.168.0.206:1313/en/members/tanshiyin/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>THIRAFI FAZA</title>
-				<link>http://localhost:1313/en/members/thirafifaza/</link>
+				<link>http://192.168.0.206:1313/en/members/thirafifaza/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/thirafifaza/</guid>
+				<guid>http://192.168.0.206:1313/en/members/thirafifaza/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>TORIGOE SOICHIRO</title>
-				<link>http://localhost:1313/en/members/torigoesoichiro/</link>
+				<title>TORIGOE, SOICHIRO</title>
+				<link>http://192.168.0.206:1313/en/members/torigoesoichiro/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/torigoesoichiro/</guid>
+				<guid>http://192.168.0.206:1313/en/members/torigoesoichiro/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>WANG YUSONG</title>
-				<link>http://localhost:1313/en/members/wangyusong/</link>
+				<link>http://192.168.0.206:1313/en/members/wangyusong/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/wangyusong/</guid>
+				<guid>http://192.168.0.206:1313/en/members/wangyusong/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>XU YICHENG</title>
-				<link>http://localhost:1313/en/members/xuyicheng/</link>
+				<link>http://192.168.0.206:1313/en/members/xuyicheng/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/xuyicheng/</guid>
+				<guid>http://192.168.0.206:1313/en/members/xuyicheng/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ZHU YANJUN</title>
-				<link>http://localhost:1313/en/members/zhuyanjun/</link>
+				<link>http://192.168.0.206:1313/en/members/zhuyanjun/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/zhuyanjun/</guid>
+				<guid>http://192.168.0.206:1313/en/members/zhuyanjun/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>LIN AILIANG</title>
-				<link>http://localhost:1313/en/members/linailiang/</link>
+				<title>LIN, AILIANG</title>
+				<link>http://192.168.0.206:1313/en/members/linailiang/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/linailiang/</guid>
+				<guid>http://192.168.0.206:1313/en/members/linailiang/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MAEDA SHINJI</title>
-				<link>http://localhost:1313/en/members/maedashinji/</link>
+				<link>http://192.168.0.206:1313/en/members/maedashinji/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/maedashinji/</guid>
+				<guid>http://192.168.0.206:1313/en/members/maedashinji/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MAEKAWA ARU</title>
-				<link>http://localhost:1313/en/members/maekawaaru/</link>
+				<link>http://192.168.0.206:1313/en/members/maekawaaru/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/maekawaaru/</guid>
+				<guid>http://192.168.0.206:1313/en/members/maekawaaru/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MAO KEYU</title>
-				<link>http://localhost:1313/en/members/maokeyu/</link>
+				<link>http://192.168.0.206:1313/en/members/maokeyu/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/maokeyu/</guid>
+				<guid>http://192.168.0.206:1313/en/members/maokeyu/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MYA EI SAN</title>
-				<link>http://localhost:1313/en/members/myaeisan/</link>
+				<link>http://192.168.0.206:1313/en/members/myaeisan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/myaeisan/</guid>
+				<guid>http://192.168.0.206:1313/en/members/myaeisan/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>OBI TAKAO</title>
-				<link>http://localhost:1313/en/members/obitakao/</link>
+				<link>http://192.168.0.206:1313/en/members/obitakao/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/obitakao/</guid>
-				<description></description>
+				<guid>http://192.168.0.206:1313/en/members/obitakao/</guid>
+				<description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;&#xA;&lt;p&gt;This message is test.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>SATO TOSHINORI</title>
-				<link>http://localhost:1313/en/members/satotoshinori/</link>
+				<link>http://192.168.0.206:1313/en/members/satotoshinori/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/satotoshinori/</guid>
+				<guid>http://192.168.0.206:1313/en/members/satotoshinori/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DA CUNHA THEODORE MATTHEW PATAWARI</title>
-				<link>http://localhost:1313/en/members/dacunhatheodorematthewpatawari/</link>
+				<link>http://192.168.0.206:1313/en/members/dacunhatheodorematthewpatawari/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/dacunhatheodorematthewpatawari/</guid>
+				<guid>http://192.168.0.206:1313/en/members/dacunhatheodorematthewpatawari/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DUAN YUTONG</title>
-				<link>http://localhost:1313/en/members/duanyutong/</link>
+				<link>http://192.168.0.206:1313/en/members/duanyutong/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/duanyutong/</guid>
+				<guid>http://192.168.0.206:1313/en/members/duanyutong/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>HE ZIMENG</title>
-				<link>http://localhost:1313/en/members/hezimeng/</link>
+				<link>http://192.168.0.206:1313/en/members/hezimeng/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/hezimeng/</guid>
+				<guid>http://192.168.0.206:1313/en/members/hezimeng/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>HUANG YIQIAN</title>
-				<link>http://localhost:1313/en/members/huangyiqian/</link>
+				<link>http://192.168.0.206:1313/en/members/huangyiqian/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/huangyiqian/</guid>
+				<guid>http://192.168.0.206:1313/en/members/huangyiqian/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>ISHIWATA TAICHI</title>
-				<link>http://localhost:1313/en/members/ishiwatataichi/</link>
+				<title>ISHIWATA,TAICHI</title>
+				<link>http://192.168.0.206:1313/en/members/ishiwatataichi/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/ishiwatataichi/</guid>
+				<guid>http://192.168.0.206:1313/en/members/ishiwatataichi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>KAWARADA MASAYUKI</title>
-				<link>http://localhost:1313/en/members/kawaradamasayuki/</link>
+				<link>http://192.168.0.206:1313/en/members/kawaradamasayuki/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/kawaradamasayuki/</guid>
+				<guid>http://192.168.0.206:1313/en/members/kawaradamasayuki/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>LYU BOXUAN</title>
-				<link>http://localhost:1313/en/members/lyuboxuan/</link>
+				<title>LYU, BOXUAN</title>
+				<link>http://192.168.0.206:1313/en/members/lyuboxuan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/lyuboxuan/</guid>
-				<description></description>
+				<guid>http://192.168.0.206:1313/en/members/lyuboxuan/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://boxuan-lyu.github.io/&#34;&gt;Homepage&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>NAKANE RYOSUKE</title>
-				<link>http://localhost:1313/en/members/nakaneryosuke/</link>
+				<link>http://192.168.0.206:1313/en/members/nakaneryosuke/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/nakaneryosuke/</guid>
+				<guid>http://192.168.0.206:1313/en/members/nakaneryosuke/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SENGOKU YUSEI</title>
-				<link>http://localhost:1313/en/members/sengokuyusei/</link>
+				<link>http://192.168.0.206:1313/en/members/sengokuyusei/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/sengokuyusei/</guid>
+				<guid>http://192.168.0.206:1313/en/members/sengokuyusei/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SHINAGAWA KENTARO</title>
-				<link>http://localhost:1313/en/members/shinagawakentaro/</link>
+				<link>http://192.168.0.206:1313/en/members/shinagawakentaro/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/shinagawakentaro/</guid>
+				<guid>http://192.168.0.206:1313/en/members/shinagawakentaro/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SUGIHARA KOSUKE</title>
-				<link>http://localhost:1313/en/members/sugiharakosuke/</link>
+				<link>http://192.168.0.206:1313/en/members/sugiharakosuke/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/sugiharakosuke/</guid>
+				<guid>http://192.168.0.206:1313/en/members/sugiharakosuke/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>TOMIZAWA AKINOJO</title>
-				<link>http://localhost:1313/en/members/tomizawaakinojo/</link>
+				<title>TOMIZAWA, AKINOJO</title>
+				<link>http://192.168.0.206:1313/en/members/tomizawaakinojo/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/tomizawaakinojo/</guid>
+				<guid>http://192.168.0.206:1313/en/members/tomizawaakinojo/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>YAMAUCHI ISATO</title>
-				<link>http://localhost:1313/en/members/yamauchiisato/</link>
+				<title>YAMAUCHI, ISATO</title>
+				<link>http://192.168.0.206:1313/en/members/yamauchiisato/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/yamauchiisato/</guid>
+				<guid>http://192.168.0.206:1313/en/members/yamauchiisato/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>YU RUNJIA</title>
-				<link>http://localhost:1313/en/members/yurunjia/</link>
+				<title>YU, RUNJIA</title>
+				<link>http://192.168.0.206:1313/en/members/yurunjia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/yurunjia/</guid>
+				<guid>http://192.168.0.206:1313/en/members/yurunjia/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>ZHU XINGYU</title>
-				<link>http://localhost:1313/en/members/zhuxingyu/</link>
+				<title>ZHU, XINGYU</title>
+				<link>http://192.168.0.206:1313/en/members/zhuxingyu/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/zhuxingyu/</guid>
+				<guid>http://192.168.0.206:1313/en/members/zhuxingyu/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CHEN GUANGYU</title>
-				<link>http://localhost:1313/en/members/chenguangyu/</link>
+				<link>http://192.168.0.206:1313/en/members/chenguangyu/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/chenguangyu/</guid>
+				<guid>http://192.168.0.206:1313/en/members/chenguangyu/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>KAWAKAMI HARUYA</title>
-				<link>http://localhost:1313/en/members/kawakamiharuya/</link>
+				<title>KAWAKAMI, HARUYA</title>
+				<link>http://192.168.0.206:1313/en/members/kawakamiharuya/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/kawakamiharuya/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>LEE JEONGAHN</title>
-				<link>http://localhost:1313/en/members/leejeongahn/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/leejeongahn/</guid>
-				<description></description>
+				<guid>http://192.168.0.206:1313/en/members/kawakamiharuya/</guid>
+				<description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;&#xA;&lt;p&gt;I work on dual-head time-series generation models, in which a language decoder and an action decoder attend to each other and emit text and drawing operations on an external workspace in parallel, step by step. Much as people write out intermediate calculations or sketch a diagram to keep track of a story, externalizing the model&amp;rsquo;s reasoning into a structured visual space is intended to improve long-range and spatial consistency, and to make interactive collaboration between people and AI easier.&lt;/p&gt;&#xA;&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JSAI SIG Research Award 2025 (SIG-AGI-032-05, &amp;ldquo;A Dual-Head Time-Series Generation Model for Simultaneous Language and Action Production&amp;rdquo;)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>NAKAGAWA YU</title>
-				<link>http://localhost:1313/en/members/nakagawayu/</link>
+				<link>http://192.168.0.206:1313/en/members/nakagawayu/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/nakagawayu/</guid>
+				<guid>http://192.168.0.206:1313/en/members/nakagawayu/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>WU TONG</title>
-				<link>http://localhost:1313/en/members/wutong/</link>
+				<link>http://192.168.0.206:1313/en/members/wutong/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/wutong/</guid>
+				<guid>http://192.168.0.206:1313/en/members/wutong/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>YAN YIHAN</title>
-				<link>http://localhost:1313/en/members/yanyihan/</link>
+				<title>YAN, YIHAN</title>
+				<link>http://192.168.0.206:1313/en/members/yanyihan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/yanyihan/</guid>
+				<guid>http://192.168.0.206:1313/en/members/yanyihan/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>YANG YU HSIANG</title>
-				<link>http://localhost:1313/en/members/yangyuhsiang/</link>
+				<link>http://192.168.0.206:1313/en/members/yangyuhsiang/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/yangyuhsiang/</guid>
+				<guid>http://192.168.0.206:1313/en/members/yangyuhsiang/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Student 1</title>
-				<link>http://localhost:1313/en/members/visting-student-1/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/members/visting-student-1/</guid>
-				<description>&lt;p&gt;Add research topics and related information here.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Laboratory Website Renewed</title>
-				<link>http://localhost:1313/en/news/2026-08-01-renewal/</link>
-				<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/2026-08-01-renewal/</guid>
+				<link>http://192.168.0.206:1313/en/news/2026-09-01-renewal/</link>
+				<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://192.168.0.206:1313/en/news/2026-09-01-renewal/</guid>
 				<description>&lt;p&gt;We will gradually add content from the previous website that has not yet been published here.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Paper Accepted to GROUP 2027</title>
+				<link>http://192.168.0.206:1313/en/news/2026-08-26-group/</link>
+				<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://192.168.0.206:1313/en/news/2026-08-26-group/</guid>
+				<description>&lt;p&gt;Takuto Fukushima, Shoichi Hasegawa, Kotaro Funakoshi, Masato Komuro, Kan Ishikawa, Sequence Incongruence and Adaptive Coordination in Social VR: A Multi-Perspective Transcription Approach, The 2027 ACM International Conference on Supporting Group Work (GROUP 2027)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Six Papers Accepted to EMNLP 2026 and Findings of EMNLP 2026</title>
+				<link>http://192.168.0.206:1313/en/news/2026-08-21-emnlp/</link>
+				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://192.168.0.206:1313/en/news/2026-08-21-emnlp/</guid>
+				<description>&lt;p&gt;The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/p&gt;&#xA;&lt;h3 id=&#34;emnlp-2026-main-conference&#34;&gt;EMNLP 2026 Main Conference&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sungwoo Han, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura. Implicit Unwatermarking in Pseudo-Reference Reranking for LLM Watermarking.&lt;/li&gt;&#xA;&lt;li&gt;Ailiang Lin, Zhuoyun Li, Yusong Wang, Keyu Mao, Kotaro Funakoshi, Manabu Okumura. ReverseEOL: Improving Training-free Text Embeddings via Text Reversal in Decoder-only LLMs.&lt;/li&gt;&#xA;&lt;li&gt;Michiro Asai, Ailiang Lin, Yu Kishimoto, Takao Obi, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura. Can LLMs Be Constrained to the Past? Improving Knowledge Cutoff through Recall-Based Prompting.&lt;/li&gt;&#xA;&lt;li&gt;Masayuki Kawarada, Tsutomu Hirao, Manabu Okumura. Structure-Aware Data Augmentation for Argument Mining.&lt;/li&gt;&#xA;&lt;li&gt;Soichiro Murakami, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura. Who Laughs with Whom? Disentangling Influential Factors in Humor Preferences across User Clusters and LLMs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;findings-of-emnlp-2026&#34;&gt;Findings of EMNLP 2026&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jianzhi Shen, Keyu Mao, Minghao Shao, Chuanyang Jin, Yusong Wang, Ailiang Lin, Kotaro Funakoshi, Manabu Okumura, Muhammad Shafique. HyperTrace: Hypothesis-Based Preference Tracing for Online LLM Personalization.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
 				<title>Paper Accepted to ACM MM 2026</title>
-				<link>http://localhost:1313/en/news/2026-07-10-acmmm/</link>
+				<link>http://192.168.0.206:1313/en/news/2026-07-10-acmmm/</link>
 				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/2026-07-10-acmmm/</guid>
+				<guid>http://192.168.0.206:1313/en/news/2026-07-10-acmmm/</guid>
 				<description>&lt;p&gt;Luecheng Wang, Shintaro Ozaki, Hidetaka Kamigaito, Katsuhiko Hayashi, Jingun Kwon, Manabu Okumura, Taro Watanabe, Simile Understanding in Text-to-Image Models: An Evaluation Framework, 34th ACM International Conference on Multimedia (ACM MM 2026)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Selected for SPReAD1000</title>
-				<link>http://localhost:1313/en/news/2026-06-23-spread/</link>
+				<link>http://192.168.0.206:1313/en/news/2026-06-23-spread/</link>
 				<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/2026-06-23-spread/</guid>
+				<guid>http://192.168.0.206:1313/en/news/2026-06-23-spread/</guid>
 				<description>&lt;p&gt;Kensei Obi&amp;rsquo;s research project in our laboratory has been selected for the AI for Science Exploratory Challenge Research Creation Program (SPReAD), part of the AI for Science program for scientific research innovation.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Paper Accepted to Materials Today Communications</title>
-				<link>http://localhost:1313/en/news/2026-06-18-materialstoday/</link>
+				<link>http://192.168.0.206:1313/en/news/2026-06-18-materialstoday/</link>
 				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/2026-06-18-materialstoday/</guid>
+				<guid>http://192.168.0.206:1313/en/news/2026-06-18-materialstoday/</guid>
 				<description>&lt;p&gt;Yutong Duan, Ying Zhang, Runjia Yu, Dongyuan Li, Satoshi Kosugi, Manabu Okumura, Kotaro Funakoshi,&#xA;Information extraction for materials science using large language models: A survey of recent advances and new frontiers, Materials Today Communications, 2026, 115551&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Paper Accepted to SIGDIAL 2026</title>
-				<link>http://localhost:1313/en/news/2026-06-02-sigdial/</link>
+				<link>http://192.168.0.206:1313/en/news/2026-06-02-sigdial/</link>
 				<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/2026-06-02-sigdial/</guid>
+				<guid>http://192.168.0.206:1313/en/news/2026-06-02-sigdial/</guid>
 				<description>&lt;p&gt;Yu Nakagawa, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura&#xA;Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues&#xA;The 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Received the 2025 Research Group Excellence Award from JSAI</title>
-				<link>http://localhost:1313/en/news/2026-06-02-jsai-award/</link>
+				<link>http://192.168.0.206:1313/en/news/2026-06-02-jsai-award/</link>
 				<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/2026-06-02-jsai-award/</guid>
+				<guid>http://192.168.0.206:1313/en/news/2026-06-02-jsai-award/</guid>
 				<description>&lt;p&gt;Haruya Kawakami, Boxuan Lyu, Kotaro Funakoshi, Manabu Okumura&lt;br&gt;&#xA;&amp;ldquo;A Two-Dimensional Time-Series Generation Model for Simultaneous Generation of Language and Behavior&amp;rdquo;&lt;br&gt;&#xA;The 32nd Meeting of the Japanese Society for Artificial Intelligence Special Interest Group on Artificial General Intelligence (SIG-AGI)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Two Papers Accepted to RO-MAN 2026</title>
-				<link>http://localhost:1313/en/news/2026-05-30-ro-man/</link>
+				<link>http://192.168.0.206:1313/en/news/2026-05-30-ro-man/</link>
 				<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/2026-05-30-ro-man/</guid>
+				<guid>http://192.168.0.206:1313/en/news/2026-05-30-ro-man/</guid>
 				<description>&lt;p&gt;Takao Obi, Yusong Wang, Koji Inoue, Kotaro Funakoshi&#xA;Toward Signing Activity Projection in Sign Language Interaction&lt;/p&gt;&#xA;&lt;p&gt;Yusong Wang, Keyu Mao, Takao Obi, Minghao Shao, Kotaro Funakoshi&#xA;Emotion Recognition in Sign Language Conversation&lt;/p&gt;&#xA;&lt;p&gt;2026 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Paper Accepted to IEEE Access</title>
-				<link>http://localhost:1313/en/news/2026-05-26-ieeeaccess/</link>
+				<link>http://192.168.0.206:1313/en/news/2026-05-26-ieeeaccess/</link>
 				<pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/2026-05-26-ieeeaccess/</guid>
+				<guid>http://192.168.0.206:1313/en/news/2026-05-26-ieeeaccess/</guid>
 				<description>&lt;p&gt;Unlocking High-Frequency Temporal Visual Cues for Personality Traits Recognition&#xA;Yusong WANG, Keyu MAO, Minghao SHAO, Zheyuan GU, Qingsong ZHAO, Kotaro FUNAKOSHI&#xA;IEEE Access &lt;a href=&#34;https://ieeexplore.ieee.org/document/11541008&#34;&gt;https://ieeexplore.ieee.org/document/11541008&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Four Papers Accepted to ACL 2026 and Findings of ACL 2026</title>
-				<link>http://localhost:1313/en/news/2026-04-06-acl/</link>
+				<link>http://192.168.0.206:1313/en/news/2026-04-06-acl/</link>
 				<pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/2026-04-06-acl/</guid>
+				<guid>http://192.168.0.206:1313/en/news/2026-04-06-acl/</guid>
 				<description>&lt;p&gt;The 64th Annual Meeting of the Association for Computational Linguistics&lt;/p&gt;&#xA;&lt;h3 id=&#34;acl-2026-main-conference&#34;&gt;ACL 2026 Main Conference&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ailiang Lin, zhuoyun li, Yusong Wang, Kotaro Funakoshi, Manabu Okumura. Causal2Vec: Improving Decoder-only LLMs as Embedding Models through a Contextual Token.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;findings-of-acl-2026&#34;&gt;Findings of ACL 2026&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ailiang Lin, zhuoyun li, MAO KEYU, Kotaro Funakoshi, Manabu Okumura.&#xA;Embedding-based In-Context Prompt Training for Enhancing LLMs as Text Encoders.&lt;/li&gt;&#xA;&lt;li&gt;Sungwoo Han, Sangjun Moon, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura.&#xA;Measuring Watermarking under Jailbreaking: ASR Inflation and Goal-Compliance Mismatch.&lt;/li&gt;&#xA;&lt;li&gt;Riza Setiawan Soetedjo, Yusuke Sakai, Hidetaka Kamigaito, Jingun Kwon, Manabu Okumura, Taro Watanabe.&#xA;Enhancing Factuality through Consensus and Consistency in Summarization Using Minimum Bayes Risk Decoding.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-			</item>
-			<item>
-				<title></title>
-				<link>http://localhost:1313/en/news/template/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/en/news/template/</guid>
-				<description></description>
 			</item>
 	</channel>
 </rss>

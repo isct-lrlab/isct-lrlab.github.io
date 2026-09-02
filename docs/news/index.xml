@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>ニュース on 東京科学大学 LRLab / 奥村・船越研究室</title>
-		<link>http://localhost:1313/news/</link>
+		<link>http://192.168.0.206:1313/news/</link>
 		<description>Recent content in ニュース on 東京科学大学 LRLab / 奥村・船越研究室</description>
 		<generator>Hugo</generator>
 		<language>ja-JP</language>
@@ -10,78 +10,85 @@
 		
 		
 		
-			<lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://192.168.0.206:1313/news/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>研究室ホームページを刷新しました</title>
-				<link>http://localhost:1313/news/2026-08-01-renewal/</link>
-				<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/news/2026-08-01-renewal/</guid>
+				<link>http://192.168.0.206:1313/news/2026-09-01-renewal/</link>
+				<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://192.168.0.206:1313/news/2026-09-01-renewal/</guid>
 				<description>&lt;p&gt;旧ホームページにあったコンテンツで未掲載のものも，順次掲載していきます．&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>GROUP 2027に論文が採録されました</title>
+				<link>http://192.168.0.206:1313/news/2026-08-26-group/</link>
+				<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://192.168.0.206:1313/news/2026-08-26-group/</guid>
+				<description>&lt;p&gt;Takuto Fukushima, Shoichi Hasegawa, Kotaro Funakoshi, Masato Komuro, Kan Ishikawa, Sequence Incongruence and Adaptive Coordination in Social VR: A Multi-Perspective Transcription Approach, The 2027 ACM International Conference on Supporting Group Work (GROUP 2027)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EMNLP 2026およびFindings of EMNLP 2026に計6本の論文が採録されました</title>
+				<link>http://192.168.0.206:1313/news/2026-08-21-emnlp/</link>
+				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://192.168.0.206:1313/news/2026-08-21-emnlp/</guid>
+				<description>&lt;p&gt;The 2026 Conference on Empirical Methods in Natural Language Processing&lt;/p&gt;&#xA;&lt;h3 id=&#34;emnlp-2026-main-conference&#34;&gt;EMNLP 2026 Main Conference&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sungwoo Han, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura. Implicit Unwatermarking in Pseudo-Reference Reranking for LLM Watermarking.&lt;/li&gt;&#xA;&lt;li&gt;Ailiang Lin, Zhuoyun Li, Yusong Wang, Keyu Mao, Kotaro Funakoshi, Manabu Okumura. ReverseEOL: Improving Training-free Text Embeddings via Text Reversal in Decoder-only LLMs.&lt;/li&gt;&#xA;&lt;li&gt;Michiro Asai, Ailiang Lin, Yu Kishimoto, Takao Obi, Satoshi Kosugi, Kotaro Funakoshi, Manabu Okumura. Can LLMs Be Constrained to the Past? Improving Knowledge Cutoff through Recall-Based Prompting.&lt;/li&gt;&#xA;&lt;li&gt;Masayuki Kawarada, Tsutomu Hirao, Manabu Okumura. Structure-Aware Data Augmentation for Argument Mining.&lt;/li&gt;&#xA;&lt;li&gt;Soichiro Murakami, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura. Who Laughs with Whom? Disentangling Influential Factors in Humor Preferences across User Clusters and LLMs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;findings-of-emnlp-2026&#34;&gt;Findings of EMNLP 2026&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jianzhi Shen, Keyu Mao, Minghao Shao, Chuanyang Jin, Yusong Wang, Ailiang Lin, Kotaro Funakoshi, Manabu Okumura, Muhammad Shafique. HyperTrace: Hypothesis-Based Preference Tracing for Online LLM Personalization.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
 				<title>ACM MM 2026に論文が採録されました</title>
-				<link>http://localhost:1313/news/2026-07-10-acmmm/</link>
+				<link>http://192.168.0.206:1313/news/2026-07-10-acmmm/</link>
 				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/news/2026-07-10-acmmm/</guid>
+				<guid>http://192.168.0.206:1313/news/2026-07-10-acmmm/</guid>
 				<description>&lt;p&gt;Luecheng Wang, Shintaro Ozaki, Hidetaka Kamigaito, Katsuhiko Hayashi, Jingun Kwon, Manabu Okumura, Taro Watanabe, Simile Understanding in Text-to-Image Models: An Evaluation Framework, 34th ACM International Conference on Multimedia (ACM MM 2026)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>SPReAD1000 に採択されました</title>
-				<link>http://localhost:1313/news/2026-06-23-spread/</link>
+				<link>http://192.168.0.206:1313/news/2026-06-23-spread/</link>
 				<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/news/2026-06-23-spread/</guid>
+				<guid>http://192.168.0.206:1313/news/2026-06-23-spread/</guid>
 				<description>&lt;p&gt;本研究室の小尾賢生の研究課題が，AI for Scienceによる科学研究革新プログラムの「AI for Science萌芽的挑戦研究創出事業（SPReAD）」に採択されました&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Materials Today Communications に論文が採録されました</title>
-				<link>http://localhost:1313/news/2026-06-18-materialstoday/</link>
+				<link>http://192.168.0.206:1313/news/2026-06-18-materialstoday/</link>
 				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/news/2026-06-18-materialstoday/</guid>
+				<guid>http://192.168.0.206:1313/news/2026-06-18-materialstoday/</guid>
 				<description>&lt;p&gt;Yutong Duan, Ying Zhang, Runjia Yu, Dongyuan Li, Satoshi Kosugi, Manabu Okumura, Kotaro Funakoshi,&#xA;Information extraction for materials science using large language models: A survey of recent advances and new frontiers, Materials Today Communications, 2026, 115551&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>SIGDIAL 2026 に論文が採録されました</title>
-				<link>http://localhost:1313/news/2026-06-02-sigdial/</link>
+				<link>http://192.168.0.206:1313/news/2026-06-02-sigdial/</link>
 				<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/news/2026-06-02-sigdial/</guid>
+				<guid>http://192.168.0.206:1313/news/2026-06-02-sigdial/</guid>
 				<description>&lt;p&gt;Yu Nakagawa, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura&#xA;Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues&#xA;The 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>人工知能学会 2025年度研究会優秀賞を受賞しました</title>
-				<link>http://localhost:1313/news/2026-06-02-jsai-award/</link>
+				<link>http://192.168.0.206:1313/news/2026-06-02-jsai-award/</link>
 				<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/news/2026-06-02-jsai-award/</guid>
+				<guid>http://192.168.0.206:1313/news/2026-06-02-jsai-award/</guid>
 				<description>&lt;p&gt;川上 晴也，呂 博軒，船越 孝太郎，奥村 学&#xA;「言語と行動を同時生成する2元時系列生成モデル」&#xA;第32回 人工知能学会 汎用人工知能研究会（SIG-AGI）&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>RO-MAN 2026 に論文2本が採録されました</title>
-				<link>http://localhost:1313/news/2026-05-30-ro-man/</link>
+				<link>http://192.168.0.206:1313/news/2026-05-30-ro-man/</link>
 				<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/news/2026-05-30-ro-man/</guid>
+				<guid>http://192.168.0.206:1313/news/2026-05-30-ro-man/</guid>
 				<description>&lt;p&gt;Takao Obi, Yusong Wang, Koji Inoue, Kotaro Funakoshi&#xA;Toward Signing Activity Projection in Sign Language Interaction&lt;/p&gt;&#xA;&lt;p&gt;Yusong Wang, Keyu Mao, Takao Obi, Minghao Shao, Kotaro Funakoshi&#xA;Emotion Recognition in Sign Language Conversation&lt;/p&gt;&#xA;&lt;p&gt;2026 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>IEEE Access に論文が採録されました</title>
-				<link>http://localhost:1313/news/2026-05-26-ieeeaccess/</link>
+				<link>http://192.168.0.206:1313/news/2026-05-26-ieeeaccess/</link>
 				<pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/news/2026-05-26-ieeeaccess/</guid>
+				<guid>http://192.168.0.206:1313/news/2026-05-26-ieeeaccess/</guid>
 				<description>&lt;p&gt;Unlocking High-Frequency Temporal Visual Cues for Personality Traits Recognition&#xA;Yusong WANG, Keyu MAO, Minghao SHAO, Zheyuan GU, Qingsong ZHAO, Kotaro FUNAKOSHI&#xA;IEEE Access &lt;a href=&#34;https://ieeexplore.ieee.org/document/11541008&#34;&gt;https://ieeexplore.ieee.org/document/11541008&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>ACL 2026およびFindings of ACL 2026に計4本の論文が採録されました</title>
-				<link>http://localhost:1313/news/2026-04-06-acl/</link>
+				<link>http://192.168.0.206:1313/news/2026-04-06-acl/</link>
 				<pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/news/2026-04-06-acl/</guid>
+				<guid>http://192.168.0.206:1313/news/2026-04-06-acl/</guid>
 				<description>&lt;p&gt;The 64th Annual Meeting of the Association for Computational Linguistics&lt;/p&gt;&#xA;&lt;h3 id=&#34;acl-2026-main-conference&#34;&gt;ACL 2026 Main Conference&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ailiang Lin, zhuoyun li, Yusong Wang, Kotaro Funakoshi, Manabu Okumura. Causal2Vec: Improving Decoder-only LLMs as Embedding Models through a Contextual Token.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;findings-of-acl-2026&#34;&gt;Findings of ACL 2026&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ailiang Lin, zhuoyun li, MAO KEYU, Kotaro Funakoshi, Manabu Okumura.&#xA;Embedding-based In-Context Prompt Training for Enhancing LLMs as Text Encoders.&lt;/li&gt;&#xA;&lt;li&gt;Sungwoo Han, Sangjun Moon, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura.&#xA;Measuring Watermarking under Jailbreaking: ASR Inflation and Goal-Compliance Mismatch.&lt;/li&gt;&#xA;&lt;li&gt;Riza Setiawan Soetedjo, Yusuke Sakai, Hidetaka Kamigaito, Jingun Kwon, Manabu Okumura, Taro Watanabe.&#xA;Enhancing Factuality through Consensus and Consistency in Summarization Using Minimum Bayes Risk Decoding.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-			</item>
-			<item>
-				<title></title>
-				<link>http://localhost:1313/news/template/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/news/template/</guid>
-				<description></description>
 			</item>
 	</channel>
 </rss>

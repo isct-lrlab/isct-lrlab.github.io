@@ -1,7 +1,7 @@
 ---
-title: "ISHIWATA TAICHI"
+title: "ISHIWATA,TAICHI"
 weight: 25
 member_group: "master"
-description: ""
+description: "ASR"
 student_id: "25M13568"
 ---
