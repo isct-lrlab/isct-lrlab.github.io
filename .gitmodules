@@ -1,9 +1,0 @@
-[submodule "themes/dot-org"]
-	path = themes/dot-org
-	url = https://github.com/cncf/dot-org-hugo-theme.git
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/gohugo-ananke/ananke.git
-[submodule "themes/clarity"]
-	path = themes/clarity
-	url = https://github.com/iron6909/clarity
