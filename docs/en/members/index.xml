@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Members on Science Tokyo LRLab / Okumura-Funakoshi Group</title>
-		<link>http://192.168.0.206:1313/en/members/</link>
+		<link>https://example.org/en/members/</link>
 		<description>Recent content in Members on Science Tokyo LRLab / Okumura-Funakoshi Group</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -10,348 +10,348 @@
 		
 		
 		
-			<atom:link href="http://192.168.0.206:1313/en/members/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://example.org/en/members/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Manabu OKUMURA</title>
-				<link>http://192.168.0.206:1313/en/members/okumuramanabu/</link>
+				<link>https://example.org/en/members/okumuramanabu/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/okumuramanabu/</guid>
+				<guid>https://example.org/en/members/okumuramanabu/</guid>
 				<description>&lt;h2 id=&#34;professor-intelligent-information-processing-research-core-laboratory-for-future-interdisciplinary-research-of-science-and-technology-intelligent-information-processing-research-core-page&#34;&gt;Professor, Intelligent Information Processing Research Core, Laboratory for Future Interdisciplinary Research of Science and Technology &lt;a href=&#34;https://www.first.iir.isct.ac.jp/en/member/core1/#okumura&#34;&gt;(Intelligent Information Processing Research Core page)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;primary-teaching-department-department-of-information-and-communications-engineering-school-of-engineering&#34;&gt;Primary Teaching Department: &lt;a href=&#34;https://educ.titech.ac.jp/ict/faculty/&#34;&gt;Department of Information and Communications Engineering, School of Engineering&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;biography-publications-and-related-information&#34;&gt;Biography, Publications, and Related Information&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://strdb.s.isct.ac.jp/html/100002058_en.html&#34;&gt;Science Tokyo Researcher Database&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/read0069366?lang=en&#34;&gt;ResearchMap&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://aclanthology.org/people/manabu-okumura/&#34;&gt;ACL Anthology&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>Kotaro FUNAKOSHI</title>
-				<link>http://192.168.0.206:1313/en/members/funakoshikotaro/</link>
+				<link>https://example.org/en/members/funakoshikotaro/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/funakoshikotaro/</guid>
-				<description>&lt;p&gt;test 7&lt;/p&gt;&#xA;&lt;h2 id=&#34;associate-professor-intelligent-information-processing-research-core-laboratory-for-future-interdisciplinary-research-of-science-and-technology-intelligent-information-processing-research-core-page&#34;&gt;Associate Professor, Intelligent Information Processing Research Core, Laboratory for Future Interdisciplinary Research of Science and Technology &lt;a href=&#34;https://www.first.iir.isct.ac.jp/en/member/core1/#funakoshi&#34;&gt;(Intelligent Information Processing Research Core page)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;primary-teaching-department-department-of-information-and-communications-engineering-school-of-engineering&#34;&gt;Primary Teaching Department: &lt;a href=&#34;https://educ.titech.ac.jp/ict/faculty/&#34;&gt;Department of Information and Communications Engineering, School of Engineering&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;contact-his-surname-at-first-dot-iir-dot-isct-dot-ac-dot-jp&#34;&gt;Contact: [His surname] at FIRST dot IIR dot ISCT dot AC dot JP&lt;/h3&gt;&#xA;&lt;h2 id=&#34;biography-publications-and-related-information&#34;&gt;Biography, Publications, and Related Information&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://strdb.s.isct.ac.jp/html/100002652_en.html&#34;&gt;Science Tokyo Researcher Database&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/funakoshi.k?lang=en&#34;&gt;ResearchMap&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?hl=en&amp;amp;user=UhXijg8AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<guid>https://example.org/en/members/funakoshikotaro/</guid>
+				<description>&lt;h2 id=&#34;associate-professor-intelligent-information-processing-research-core-laboratory-for-future-interdisciplinary-research-of-science-and-technology-intelligent-information-processing-research-core-page&#34;&gt;Associate Professor, Intelligent Information Processing Research Core, Laboratory for Future Interdisciplinary Research of Science and Technology &lt;a href=&#34;https://www.first.iir.isct.ac.jp/en/member/core1/#funakoshi&#34;&gt;(Intelligent Information Processing Research Core page)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;primary-teaching-department-department-of-information-and-communications-engineering-school-of-engineering&#34;&gt;Primary Teaching Department: &lt;a href=&#34;https://educ.titech.ac.jp/ict/faculty/&#34;&gt;Department of Information and Communications Engineering, School of Engineering&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;contact-his-surname-at-first-dot-iir-dot-isct-dot-ac-dot-jp&#34;&gt;Contact: [His surname] at FIRST dot IIR dot ISCT dot AC dot JP&lt;/h3&gt;&#xA;&lt;h2 id=&#34;biography-publications-and-related-information&#34;&gt;Biography, Publications, and Related Information&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://strdb.s.isct.ac.jp/html/100002652_en.html&#34;&gt;Science Tokyo Researcher Database&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://researchmap.jp/funakoshi.k?lang=en&#34;&gt;ResearchMap&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.jp/citations?hl=en&amp;amp;user=UhXijg8AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>Satoshi KOSUGI</title>
-				<link>http://192.168.0.206:1313/en/members/kosugisatoshi/</link>
+				<link>https://example.org/en/members/kosugisatoshi/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/kosugisatoshi/</guid>
+				<guid>https://example.org/en/members/kosugisatoshi/</guid>
 				<description>&lt;h2 id=&#34;assistant-professor-intelligent-information-processing-research-core-laboratory-for-future-interdisciplinary-research-of-science-and-technology-intelligent-information-processing-research-core-page&#34;&gt;Assistant Professor, Intelligent Information Processing Research Core, Laboratory for Future Interdisciplinary Research of Science and Technology &lt;a href=&#34;https://www.first.iir.isct.ac.jp/en/member/core1/#kosugi&#34;&gt;(Intelligent Information Processing Research Core page)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;primary-teaching-department-department-of-information-and-communications-engineering-school-of-engineering&#34;&gt;Primary Teaching Department: &lt;a href=&#34;https://educ.titech.ac.jp/ict/faculty/&#34;&gt;Department of Information and Communications Engineering, School of Engineering&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;biography-publications-and-related-information&#34;&gt;Biography, Publications, and Related Information&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://strdb.s.isct.ac.jp/html/100003342_en.html&#34;&gt;Science Tokyo Researcher Database&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://satoshi-kosugi.github.io/index.html&#34;&gt;Personal Website (github.io)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>Nobuko IIYAMA</title>
-				<link>http://192.168.0.206:1313/en/members/secretary/</link>
+				<link>https://example.org/en/members/secretary/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/secretary/</guid>
+				<guid>https://example.org/en/members/secretary/</guid>
 				<description>&lt;p&gt;R2棟 728号室，電話/FAX: 045-924-5295&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Dongyuan Li</title>
-				<link>http://192.168.0.206:1313/en/members/lidongyuan/</link>
+				<link>https://example.org/en/members/lidongyuan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/lidongyuan/</guid>
+				<guid>https://example.org/en/members/lidongyuan/</guid>
 				<description>&lt;p&gt;Administrative support, office communication, and visitor coordination.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>CAI YUANYUAN</title>
-				<link>http://192.168.0.206:1313/en/members/caiyuanyuan/</link>
+				<link>https://example.org/en/members/caiyuanyuan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/caiyuanyuan/</guid>
+				<guid>https://example.org/en/members/caiyuanyuan/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>JIARAMANEEPINIT BOONNITHI</title>
-				<link>http://192.168.0.206:1313/en/members/jiaramaneepinitboonnithi/</link>
+				<link>https://example.org/en/members/jiaramaneepinitboonnithi/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/jiaramaneepinitboonnithi/</guid>
+				<guid>https://example.org/en/members/jiaramaneepinitboonnithi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>PARK JAEEON</title>
-				<link>http://192.168.0.206:1313/en/members/parkjaeeon/</link>
+				<link>https://example.org/en/members/parkjaeeon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/parkjaeeon/</guid>
+				<guid>https://example.org/en/members/parkjaeeon/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>XI XIANGWEN</title>
-				<link>http://192.168.0.206:1313/en/members/xixiangwen/</link>
+				<link>https://example.org/en/members/xixiangwen/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/xixiangwen/</guid>
+				<guid>https://example.org/en/members/xixiangwen/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>XIONG,YE</title>
-				<link>http://192.168.0.206:1313/en/members/xiongye/</link>
+				<link>https://example.org/en/members/xiongye/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/xiongye/</guid>
+				<guid>https://example.org/en/members/xiongye/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>ZHU TIANJIAO</title>
-				<link>http://192.168.0.206:1313/en/members/zhutianjiao/</link>
+				<title>ZHU, TIANJIAO</title>
+				<link>https://example.org/en/members/zhutianjiao/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/zhutianjiao/</guid>
+				<guid>https://example.org/en/members/zhutianjiao/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MIYAMOTO, KAITO</title>
-				<link>http://192.168.0.206:1313/en/members/miyamotokaito/</link>
+				<link>https://example.org/en/members/miyamotokaito/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/miyamotokaito/</guid>
+				<guid>https://example.org/en/members/miyamotokaito/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>REN KEXIN</title>
-				<link>http://192.168.0.206:1313/en/members/renkexin/</link>
+				<link>https://example.org/en/members/renkexin/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/renkexin/</guid>
+				<guid>https://example.org/en/members/renkexin/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SASAKI YUTA</title>
-				<link>http://192.168.0.206:1313/en/members/sasakiyuta/</link>
+				<link>https://example.org/en/members/sasakiyuta/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/sasakiyuta/</guid>
+				<guid>https://example.org/en/members/sasakiyuta/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SHEN, JIALUN</title>
-				<link>http://192.168.0.206:1313/en/members/shenjialun/</link>
+				<link>https://example.org/en/members/shenjialun/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/shenjialun/</guid>
+				<guid>https://example.org/en/members/shenjialun/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://sgallon-rin.github.io/&#34;&gt;Homepage&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>TAN SHIYIN</title>
-				<link>http://192.168.0.206:1313/en/members/tanshiyin/</link>
+				<title>TAN, SHIYIN</title>
+				<link>https://example.org/en/members/tanshiyin/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/tanshiyin/</guid>
-				<description></description>
+				<guid>https://example.org/en/members/tanshiyin/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=0csQTusAAAAJ&amp;amp;hl=en&#34;&gt;GoogleScholar&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>THIRAFI FAZA</title>
-				<link>http://192.168.0.206:1313/en/members/thirafifaza/</link>
+				<link>https://example.org/en/members/thirafifaza/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/thirafifaza/</guid>
+				<guid>https://example.org/en/members/thirafifaza/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TORIGOE, SOICHIRO</title>
-				<link>http://192.168.0.206:1313/en/members/torigoesoichiro/</link>
+				<link>https://example.org/en/members/torigoesoichiro/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/torigoesoichiro/</guid>
+				<guid>https://example.org/en/members/torigoesoichiro/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>WANG YUSONG</title>
-				<link>http://192.168.0.206:1313/en/members/wangyusong/</link>
+				<title>WANG, YUSONG</title>
+				<link>https://example.org/en/members/wangyusong/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/wangyusong/</guid>
+				<guid>https://example.org/en/members/wangyusong/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>XU YICHENG</title>
-				<link>http://192.168.0.206:1313/en/members/xuyicheng/</link>
+				<link>https://example.org/en/members/xuyicheng/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/xuyicheng/</guid>
+				<guid>https://example.org/en/members/xuyicheng/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ZHU YANJUN</title>
-				<link>http://192.168.0.206:1313/en/members/zhuyanjun/</link>
+				<link>https://example.org/en/members/zhuyanjun/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/zhuyanjun/</guid>
+				<guid>https://example.org/en/members/zhuyanjun/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>LIN, AILIANG</title>
-				<link>http://192.168.0.206:1313/en/members/linailiang/</link>
+				<link>https://example.org/en/members/linailiang/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/linailiang/</guid>
-				<description></description>
+				<guid>https://example.org/en/members/linailiang/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=yz-PwdUAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34;&gt;Homepage&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>MAEDA SHINJI</title>
-				<link>http://192.168.0.206:1313/en/members/maedashinji/</link>
+				<link>https://example.org/en/members/maedashinji/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/maedashinji/</guid>
+				<guid>https://example.org/en/members/maedashinji/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MAEKAWA ARU</title>
-				<link>http://192.168.0.206:1313/en/members/maekawaaru/</link>
+				<link>https://example.org/en/members/maekawaaru/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/maekawaaru/</guid>
+				<guid>https://example.org/en/members/maekawaaru/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MAO KEYU</title>
-				<link>http://192.168.0.206:1313/en/members/maokeyu/</link>
+				<link>https://example.org/en/members/maokeyu/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/maokeyu/</guid>
+				<guid>https://example.org/en/members/maokeyu/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MYA EI SAN</title>
-				<link>http://192.168.0.206:1313/en/members/myaeisan/</link>
+				<link>https://example.org/en/members/myaeisan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/myaeisan/</guid>
+				<guid>https://example.org/en/members/myaeisan/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>OBI TAKAO</title>
-				<link>http://192.168.0.206:1313/en/members/obitakao/</link>
+				<title>OBI, TAKAO</title>
+				<link>https://example.org/en/members/obitakao/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/obitakao/</guid>
-				<description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;&#xA;&lt;p&gt;This message is test.&lt;/p&gt;</description>
+				<guid>https://example.org/en/members/obitakao/</guid>
+				<description></description>
 			</item>
 			<item>
 				<title>SATO TOSHINORI</title>
-				<link>http://192.168.0.206:1313/en/members/satotoshinori/</link>
+				<link>https://example.org/en/members/satotoshinori/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/satotoshinori/</guid>
+				<guid>https://example.org/en/members/satotoshinori/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DA CUNHA THEODORE MATTHEW PATAWARI</title>
-				<link>http://192.168.0.206:1313/en/members/dacunhatheodorematthewpatawari/</link>
+				<link>https://example.org/en/members/dacunhatheodorematthewpatawari/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/dacunhatheodorematthewpatawari/</guid>
+				<guid>https://example.org/en/members/dacunhatheodorematthewpatawari/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>DUAN YUTONG</title>
-				<link>http://192.168.0.206:1313/en/members/duanyutong/</link>
+				<title>DUAN, YUTONG</title>
+				<link>https://example.org/en/members/duanyutong/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/duanyutong/</guid>
+				<guid>https://example.org/en/members/duanyutong/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>HE ZIMENG</title>
-				<link>http://192.168.0.206:1313/en/members/hezimeng/</link>
+				<title>HE, ZIMENG</title>
+				<link>https://example.org/en/members/hezimeng/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/hezimeng/</guid>
+				<guid>https://example.org/en/members/hezimeng/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>HUANG YIQIAN</title>
-				<link>http://192.168.0.206:1313/en/members/huangyiqian/</link>
+				<title>HUANG, YIQIAN</title>
+				<link>https://example.org/en/members/huangyiqian/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/huangyiqian/</guid>
+				<guid>https://example.org/en/members/huangyiqian/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ISHIWATA,TAICHI</title>
-				<link>http://192.168.0.206:1313/en/members/ishiwatataichi/</link>
+				<link>https://example.org/en/members/ishiwatataichi/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/ishiwatataichi/</guid>
+				<guid>https://example.org/en/members/ishiwatataichi/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>KAWARADA MASAYUKI</title>
-				<link>http://192.168.0.206:1313/en/members/kawaradamasayuki/</link>
+				<link>https://example.org/en/members/kawaradamasayuki/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/kawaradamasayuki/</guid>
+				<guid>https://example.org/en/members/kawaradamasayuki/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>LYU, BOXUAN</title>
-				<link>http://192.168.0.206:1313/en/members/lyuboxuan/</link>
+				<link>https://example.org/en/members/lyuboxuan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/lyuboxuan/</guid>
+				<guid>https://example.org/en/members/lyuboxuan/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://boxuan-lyu.github.io/&#34;&gt;Homepage&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>NAKANE RYOSUKE</title>
-				<link>http://192.168.0.206:1313/en/members/nakaneryosuke/</link>
+				<link>https://example.org/en/members/nakaneryosuke/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/nakaneryosuke/</guid>
+				<guid>https://example.org/en/members/nakaneryosuke/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>SENGOKU YUSEI</title>
-				<link>http://192.168.0.206:1313/en/members/sengokuyusei/</link>
+				<title>SENGOKU, YUSEI</title>
+				<link>https://example.org/en/members/sengokuyusei/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/sengokuyusei/</guid>
+				<guid>https://example.org/en/members/sengokuyusei/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SHINAGAWA KENTARO</title>
-				<link>http://192.168.0.206:1313/en/members/shinagawakentaro/</link>
+				<link>https://example.org/en/members/shinagawakentaro/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/shinagawakentaro/</guid>
+				<guid>https://example.org/en/members/shinagawakentaro/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>SUGIHARA KOSUKE</title>
-				<link>http://192.168.0.206:1313/en/members/sugiharakosuke/</link>
+				<title>SUGIHARA, KOSUKE</title>
+				<link>https://example.org/en/members/sugiharakosuke/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/sugiharakosuke/</guid>
+				<guid>https://example.org/en/members/sugiharakosuke/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>TOMIZAWA, AKINOJO</title>
-				<link>http://192.168.0.206:1313/en/members/tomizawaakinojo/</link>
+				<link>https://example.org/en/members/tomizawaakinojo/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/tomizawaakinojo/</guid>
+				<guid>https://example.org/en/members/tomizawaakinojo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>YAMAUCHI, ISATO</title>
-				<link>http://192.168.0.206:1313/en/members/yamauchiisato/</link>
+				<link>https://example.org/en/members/yamauchiisato/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/yamauchiisato/</guid>
+				<guid>https://example.org/en/members/yamauchiisato/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>YU, RUNJIA</title>
-				<link>http://192.168.0.206:1313/en/members/yurunjia/</link>
+				<link>https://example.org/en/members/yurunjia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/yurunjia/</guid>
+				<guid>https://example.org/en/members/yurunjia/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>ZHU, XINGYU</title>
-				<link>http://192.168.0.206:1313/en/members/zhuxingyu/</link>
+				<link>https://example.org/en/members/zhuxingyu/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/zhuxingyu/</guid>
+				<guid>https://example.org/en/members/zhuxingyu/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>CHEN GUANGYU</title>
-				<link>http://192.168.0.206:1313/en/members/chenguangyu/</link>
+				<link>https://example.org/en/members/chenguangyu/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/chenguangyu/</guid>
+				<guid>https://example.org/en/members/chenguangyu/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>KAWAKAMI, HARUYA</title>
-				<link>http://192.168.0.206:1313/en/members/kawakamiharuya/</link>
+				<link>https://example.org/en/members/kawakamiharuya/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/kawakamiharuya/</guid>
+				<guid>https://example.org/en/members/kawakamiharuya/</guid>
 				<description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;&#xA;&lt;p&gt;I work on dual-head time-series generation models, in which a language decoder and an action decoder attend to each other and emit text and drawing operations on an external workspace in parallel, step by step. Much as people write out intermediate calculations or sketch a diagram to keep track of a story, externalizing the model&amp;rsquo;s reasoning into a structured visual space is intended to improve long-range and spatial consistency, and to make interactive collaboration between people and AI easier.&lt;/p&gt;&#xA;&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JSAI SIG Research Award 2025 (SIG-AGI-032-05, &amp;ldquo;A Dual-Head Time-Series Generation Model for Simultaneous Language and Action Production&amp;rdquo;)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>NAKAGAWA YU</title>
-				<link>http://192.168.0.206:1313/en/members/nakagawayu/</link>
+				<link>https://example.org/en/members/nakagawayu/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/nakagawayu/</guid>
+				<guid>https://example.org/en/members/nakagawayu/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>WU TONG</title>
-				<link>http://192.168.0.206:1313/en/members/wutong/</link>
+				<link>https://example.org/en/members/wutong/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/wutong/</guid>
+				<guid>https://example.org/en/members/wutong/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>YAN, YIHAN</title>
-				<link>http://192.168.0.206:1313/en/members/yanyihan/</link>
+				<link>https://example.org/en/members/yanyihan/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/yanyihan/</guid>
+				<guid>https://example.org/en/members/yanyihan/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>YANG YU HSIANG</title>
-				<link>http://192.168.0.206:1313/en/members/yangyuhsiang/</link>
+				<link>https://example.org/en/members/yangyuhsiang/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://192.168.0.206:1313/en/members/yangyuhsiang/</guid>
+				<guid>https://example.org/en/members/yangyuhsiang/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -1,5 +1,5 @@
 ---
-title: "WANG YUSONG"
+title: "WANG, YUSONG"
 weight: 23
 member_group: "doctoral"
 description: "Multimodal Personality Traits Recognition, Mutlimodal Machine Translation"
