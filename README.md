@@ -5,7 +5,7 @@ https://www.lr.first.iir.isct.ac.jp/
 
 ## here
 
-Check the site by
+Check the site locally by
 
 $ hugo server -D
 
@@ -18,7 +18,7 @@ NOTE: -D option shows up draft files with 'draft: true'
 
 Build the site by
 
-$ hugo --cleanDestinationDir --minify
+$ hugo 
 
 or
 
