@@ -1,5 +1,5 @@
 ---
-title: "DA CUNHA. THEODORE MATTHEW PATAWARI"
+title: "DA CUNHA, THEODORE MATTHEW PATAWARI"
 weight: 25
 member_group: "master"
 description: "私の研究では、マルチモーダル深層学習を用いて、音楽と言語の共同表現の学習に取り組んでいます。特に、コードやビートなどの音楽情報をオーディオエンコーダに組み込むことで、低レベルの音楽的特徴と高レベルの意味情報の両方を捉える手法について研究しています。音楽内容と言語による自然な記述を効果的に整合させ、音楽理解タスクの向上につながる表現の開発を目指しています。"
