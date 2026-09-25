@@ -2,7 +2,7 @@
 title: "KAWAKAMI, HARUYA"
 weight: 26
 member_group: "master"
-description: "Simultaneous generation of language and action. I work on externalizing a model's reasoning into a visual workspace to improve long-range and spatial consistency in generation."
+description: "Simultaneous generation of language and action"
 student_id: "26M14111"
 ---
 

@@ -66,6 +66,11 @@ summaryLength = 90
   parent = "メンバー"
   weight = 25
 [[languages.ja.menu.main]]
+  name = "OB&OG"
+  url = "/members/#obog"
+  parent = "メンバー"
+  weight = 26
+[[languages.ja.menu.main]]
   name = "研究"
   pageRef = "/research"
   weight = 30
@@ -136,6 +141,11 @@ summaryLength = 90
   url = "/members/#research-visiting"
   parent = "Members"
   weight = 25
+[[languages.en.menu.main]]
+  name = "OB&OG"
+  url = "/members/#obog"
+  parent = "Members"
+  weight = 26
 [[languages.en.menu.main]]
   name = "Research"
   pageRef = "/research"

@@ -1,7 +1,7 @@
 ---
 title: "TAN, SHIYIN"
 weight: 23
-member_group: "doctoral"
+member_group: "obog"
 description: "Multi-Document Summarization, Graph-based learning, Recommendation"
 student_id: "23D18480"
 ---

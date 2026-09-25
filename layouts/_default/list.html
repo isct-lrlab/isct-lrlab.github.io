@@ -32,6 +32,7 @@
       (dict "key" "master" "ja" "修士課程" "en" "Master's Students")
       (dict "key" "bachelor" "ja" "学士課程" "en" "Bachelor's Students")
       (dict "key" "research-visiting" "ja" "研究生・訪問学生" "en" "Research and Visiting Students")
+      (dict "key" "obog" "ja" "OB&OG" "en" "OB&OG")
     }}
     {{ range $groups }}
       {{ $members := where $.Pages.ByWeight "Params.member_group" .key }}
