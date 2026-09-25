@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ if eq .Site.Language.Lang "en" }}{{ .Site.Params.description_en }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    {{ $style := resources.Get "css/site.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  </head>
+  <body>
+    {{ partial "header.html" . }}
+    <main id="main">
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+  </body>
+</html>

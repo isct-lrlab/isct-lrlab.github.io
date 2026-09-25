@@ -1,0 +1,65 @@
+{{ define "main" }}
+{{ $isPublications := in .RelPermalink "/research/publications/" }}
+<section class="page-heading">
+  <p class="eyebrow">{{ .Section }}</p>
+  <h1>{{ .Title }}</h1>
+  {{ if not $isPublications }}
+    {{ with .Content }}<div class="lead">{{ . }}</div>{{ end }}
+  {{ end }}
+</section>
+
+{{ if $isPublications }}
+  <section class="section">
+    <div class="content publications-content" style="--publications-body-font-size: {{ .Site.Params.publicationsBodyFontSize | default "1.5rem" }};">
+      {{ .Content }}
+    </div>
+  </section>
+{{ else if eq .Section "news" }}
+
+  <section class="section news-list">
+    {{ range .Pages.ByDate.Reverse }}
+      <article class="news-item">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      </article>
+    {{ end }}
+  </section>
+{{ else if eq .Section "members" }}
+  <section class="section member-list">
+    {{ $groups := slice
+      (dict "key" "staff" "ja" "スタッフ" "en" "Staff")
+      (dict "key" "doctoral" "ja" "博士課程" "en" "Doctoral Students")
+      (dict "key" "master" "ja" "修士課程" "en" "Master's Students")
+      (dict "key" "bachelor" "ja" "学士課程" "en" "Bachelor's Students")
+      (dict "key" "research-visiting" "ja" "研究生・訪問学生" "en" "Research and Visiting Students")
+    }}
+    {{ range $groups }}
+      {{ $members := where $.Pages.ByWeight "Params.member_group" .key }}
+      <section class="member-group" id="{{ .key }}">
+        <h2>{{ if eq $.Site.Language.Lang "en" }}{{ .en }}{{ else }}{{ .ja }}{{ end }}</h2>
+        {{ if $members }}
+          <div class="page-grid">
+            {{ range $members }}
+              <article class="page-card">
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                {{ with .Description }}<p>{{ . }}</p>{{ end }}
+              </article>
+            {{ end }}
+          </div>
+        {{ else }}
+          <p class="empty-group">{{ if eq $.Site.Language.Lang "en" }}No members are listed yet.{{ else }}現在、掲載されているメンバーはいません。{{ end }}</p>
+        {{ end }}
+      </section>
+    {{ end }}
+  </section>
+{{ else }}
+  <section class="section page-grid">
+    {{ range .Pages.ByWeight }}
+      <article class="page-card">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      </article>
+    {{ end }}
+  </section>
+{{ end }}
+{{ end }}

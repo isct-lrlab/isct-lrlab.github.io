@@ -1,9 +1,175 @@
-#baseURL = 'https://isct-lrlab.github.io/'
-#baseURL = 'https://web.lr.first.iir.isct.ac.jp/'
-baseURL = 'https://www.lr.first.iir.isct.ac.jp/'
-locale = 'en-us'
-title = 'Science Tokyo LR Lab / Okumura-Funakoshi Group'
-theme = 'clarity' 
-
+baseURL = "https://example.org/"
+title = "東京科学大学 LRLab / 奥村・船越研究室"
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
 publishDir = "docs"
+hasCJKLanguage = true
+summaryLength = 90
 
+[params]
+  recentNewsLimit = 10
+  address = "〒226-8501 神奈川県横浜市緑区長津田町4259 東京科学大学総合研究院未来産業技術研究所 R2棟"
+  address_en = "Bldg. R2, FIRST, IIR, Institute of Science Tokyo, Nagatsuta 4259, Midori-ku, Yokohama, Kanagawa 226-8501, Japan"
+  description = "自然言語処理、対話システム、知識処理に取り組む研究室です。"
+  description_en = "A research group working on natural language processing, dialogue systems, and knowledge processing."
+  publicationsBodyFontSize = "1.1rem"
+
+[languages]
+  [languages.ja]
+    label = "日本語"
+    locale = "ja-JP"
+    title = "東京科学大学 LRLab / 奥村・船越研究室"
+    weight = 1
+  [languages.en]
+    label = "English"
+    locale = "en-US"
+    title = "Science Tokyo LRLab / Okumura-Funakoshi Group"
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[languages.ja.menu.main]]
+  name = "ニュース"
+  pageRef = "/news"
+  weight = 10
+[[languages.ja.menu.main]]
+  name = "メンバー"
+  pageRef = "/members"
+  weight = 20
+[[languages.ja.menu.main]]
+  name = "スタッフ"
+  url = "/members/#staff"
+  parent = "メンバー"
+  weight = 21
+[[languages.ja.menu.main]]
+  name = "博士課程"
+  url = "/members/#doctoral"
+  parent = "メンバー"
+  weight = 22
+[[languages.ja.menu.main]]
+  name = "修士課程"
+  url = "/members/#master"
+  parent = "メンバー"
+  weight = 23
+[[languages.ja.menu.main]]
+  name = "学士課程"
+  url = "/members/#bachelor"
+  parent = "メンバー"
+  weight = 24
+[[languages.ja.menu.main]]
+  name = "研究生・訪問学生"
+  url = "/members/#research-visiting"
+  parent = "メンバー"
+  weight = 25
+[[languages.ja.menu.main]]
+  name = "研究"
+  pageRef = "/research"
+  weight = 30
+[[languages.ja.menu.main]]
+  name = "業績"
+  pageRef = "/research/publications"
+  parent = "研究"
+  weight = 31
+#[[languages.ja.menu.main]]
+#  name = "プロジェクト"
+#  pageRef = "/research/projects"
+#  parent = "研究"
+#  weight = 32
+[[languages.ja.menu.main]]
+  name = "研究室"
+  pageRef = "/lab"
+  weight = 40
+[[languages.ja.menu.main]]
+  name = "研究室の活動"
+  pageRef = "/lab/activities"
+  parent = "研究室"
+  weight = 41
+[[languages.ja.menu.main]]
+  name = "研究室への配属"
+  pageRef = "/lab/join"
+  parent = "研究室"
+  weight = 42
+[[languages.ja.menu.main]]
+  name = "研究テーマの選び方"
+  pageRef = "/lab/themes"
+  parent = "研究室"
+  weight = 43
+[[languages.ja.menu.main]]
+  name = "リンク集"
+  pageRef = "/links"
+  weight = 50
+
+[[languages.en.menu.main]]
+  name = "News"
+  pageRef = "/news"
+  weight = 10
+[[languages.en.menu.main]]
+  name = "Members"
+  pageRef = "/members"
+  weight = 20
+[[languages.en.menu.main]]
+  name = "Staff"
+  url = "/members/#staff"
+  parent = "Members"
+  weight = 21
+[[languages.en.menu.main]]
+  name = "Doctoral Students"
+  url = "/members/#doctoral"
+  parent = "Members"
+  weight = 22
+[[languages.en.menu.main]]
+  name = "Master's Students"
+  url = "/members/#master"
+  parent = "Members"
+  weight = 23
+[[languages.en.menu.main]]
+  name = "Bachelor's Students"
+  url = "/members/#bachelor"
+  parent = "Members"
+  weight = 24
+[[languages.en.menu.main]]
+  name = "Research and Visiting Students"
+  url = "/members/#research-visiting"
+  parent = "Members"
+  weight = 25
+[[languages.en.menu.main]]
+  name = "Research"
+  pageRef = "/research"
+  weight = 30
+[[languages.en.menu.main]]
+  name = "Publications"
+  pageRef = "/research/publications"
+  parent = "Research"
+  weight = 31
+#[[languages.en.menu.main]]
+#  name = "Projects"
+#  pageRef = "/research/projects"
+#  parent = "Research"
+#  weight = 32
+[[languages.en.menu.main]]
+  name = "Lab"
+  pageRef = "/lab"
+  weight = 40
+[[languages.en.menu.main]]
+  name = "Activities"
+  pageRef = "/lab/activities"
+  parent = "Lab"
+  weight = 41
+[[languages.en.menu.main]]
+  name = "Joining the lab"
+  pageRef = "/lab/join"
+  parent = "Lab"
+  weight = 42
+[[languages.en.menu.main]]
+  name = "Choosing a theme"
+  pageRef = "/lab/themes"
+  parent = "Lab"
+  weight = 43
+[[languages.en.menu.main]]
+  name = "Links"
+  pageRef = "/links"
+  weight = 50
