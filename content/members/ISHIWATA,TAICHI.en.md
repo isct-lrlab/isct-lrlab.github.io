@@ -3,5 +3,5 @@ title: "ISHIWATA,TAICHI"
 weight: 25
 member_group: "master"
 description: "Slide-aware Presentation ASR"
-student_id: "25M13568"
+
 ---

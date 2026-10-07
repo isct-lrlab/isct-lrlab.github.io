@@ -3,7 +3,7 @@ title: "川上 晴也"
 weight: 26
 member_group: "master"
 description: "言語と行動の同時生成。思考の外部空間への可視化・構造化"
-student_id: "26M14111"
+
 ---
 
 ## 研究テーマ

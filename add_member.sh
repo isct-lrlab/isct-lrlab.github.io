@@ -1,8 +1,8 @@
 #!/bin/bash
 
-usage="$0 <name> <weight> <group>\n
+usage="$0 <name> <year> <group>\n
 <name>: LAST-NAME,FIRST-NAME in latin capital letters.\n
-<weight>: Year of enrollment in two digits, e.g., 26, 27, ...\n
+<year>: Year of enrollment in two digits, e.g., 26, 27, ...\n
 <group>: either 'b' (bachelor), 'm' (master), 'd' (doctoral), 'o' (obog) or 'r' (research-visiting student)
 "
 
@@ -12,8 +12,8 @@ if [ -z $name ]; then
     exit
 fi
 
-weight=$2
-if [ -z $weight ]; then
+year=$2
+if [ -z $year ]; then
     echo $usage
     exit
 fi
@@ -50,7 +50,7 @@ draft: 1#\
 "
 
 template=`echo $template | sed s/NAME/$name/`
-template=`echo $template | sed s/WEIGHT/$weight/`
+template=`echo $template | sed s/WEIGHT/$year/`
 template=`echo $template | sed s/GROUP/$group/`
 echo $template | tr "#" "\n" > content/members/$name.md
 cp content/members/$name.md content/members/$name.en.md

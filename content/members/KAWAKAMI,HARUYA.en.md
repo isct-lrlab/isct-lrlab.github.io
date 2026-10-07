@@ -3,7 +3,7 @@ title: "KAWAKAMI, HARUYA"
 weight: 26
 member_group: "master"
 description: "Simultaneous generation of language and action"
-student_id: "26M14111"
+
 ---
 
 ## Research
