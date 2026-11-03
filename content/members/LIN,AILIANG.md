@@ -1,7 +1,7 @@
 ---
 title: "LIN, AILIANG"
-weight: 24
-member_group: "master"
+weight: "2026"
+member_group: "doctoral"
 description: "Semantics, Information Retrieval, Vision-Language Model"
 
 ---
