@@ -3,7 +3,9 @@
 
 https://www.lr.first.iir.isct.ac.jp/
 
-## here
+**To Students:** ***If you want to update your page content (content/members/YOUR,NAME{.md,.en.md}), create a pull request and notify the SOUMU member in charge about your pull request. He/she will check and merge your update.***
+
+## here (to check)
 
 Check the site locally by
 
