@@ -5,6 +5,6 @@ translate: false
 draft: false
 ---
 
-Haruya Kawakami, Boxuan Lyu, Kotaro Funakoshi, Manabu Okumura  
-"A Two-Dimensional Time-Series Generation Model for Simultaneous Generation of Language and Behavior"  
+Haruya Kawakami, Boxuan Lyu, Kotaro Funakoshi, Manabu Okumura
+"A Dual-Head Time-Series Generation Model for Simultaneous Language and Action Production"
 The 32nd Meeting of the Japanese Society for Artificial Intelligence Special Interest Group on Artificial General Intelligence (SIG-AGI)
