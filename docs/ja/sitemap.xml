@@ -734,21 +734,21 @@
                 href="https://example.org/en/members/maokeyu/"
                 />
   </url><url>
-    <loc>https://example.org/news/2026-10-16-paclic40/</loc>
-    <lastmod>2026-10-16T00:00:00+00:00</lastmod>
+    <loc>https://example.org/news/2026-11-13-eacl2027/</loc>
+    <lastmod>2026-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
-                href="https://example.org/news/2026-10-16-paclic40/"
+                href="https://example.org/news/2026-11-13-eacl2027/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.org/en/news/2026-10-16-paclic40/"
+                href="https://example.org/en/news/2026-11-13-eacl2027/"
                 />
   </url><url>
     <loc>https://example.org/news/</loc>
-    <lastmod>2026-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
@@ -761,7 +761,7 @@
                 />
   </url><url>
     <loc>https://example.org/</loc>
-    <lastmod>2026-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-JP"
@@ -771,6 +771,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://example.org/en/"
+                />
+  </url><url>
+    <loc>https://example.org/news/2026-10-16-paclic40/</loc>
+    <lastmod>2026-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="https://example.org/news/2026-10-16-paclic40/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://example.org/en/news/2026-10-16-paclic40/"
                 />
   </url><url>
     <loc>https://example.org/news/2026-09-08-aacl-ijcnlp/</loc>
